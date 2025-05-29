@@ -1,0 +1,1972 @@
+{
+  "metadata": {
+    "name": "Albanian-English-German Translation Dataset",
+    "version": "1.0",
+    "description": "Comprehensive multilingual dataset for translation between Albanian (sq), English (en), and German (de)",
+    "languages": ["sq", "en", "de"],
+    "total_entries": 500,
+    "categories": ["greetings", "common_phrases", "numbers", "time", "food", "travel", "business", "education", "emotions", "weather", "family", "body_parts", "colors", "animals", "technology", "sports", "clothing", "healthcare", "shopping", "directions"]
+  },
+  "translations": [
+    {
+      "id": 1,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Përshëndetje",
+      "en": "Hello",
+      "de": "Hallo"
+    },
+    {
+      "id": 2,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Mirëdita",
+      "en": "Good day",
+      "de": "Guten Tag"
+    },
+    {
+      "id": 3,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Mirëmëngjes",
+      "en": "Good morning",
+      "de": "Guten Morgen"
+    },
+    {
+      "id": 4,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Mirëmbrëma",
+      "en": "Good evening",
+      "de": "Guten Abend"
+    },
+    {
+      "id": 5,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Natën e mirë",
+      "en": "Good night",
+      "de": "Gute Nacht"
+    },
+    {
+      "id": 6,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Faleminderit",
+      "en": "Thank you",
+      "de": "Danke"
+    },
+    {
+      "id": 7,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Ju lutem",
+      "en": "Please",
+      "de": "Bitte"
+    },
+    {
+      "id": 8,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Me falni",
+      "en": "Excuse me",
+      "de": "Entschuldigung"
+    },
+    {
+      "id": 9,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Po",
+      "en": "Yes",
+      "de": "Ja"
+    },
+    {
+      "id": 10,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Jo",
+      "en": "No",
+      "de": "Nein"
+    },
+    {
+      "id": 11,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "një",
+      "en": "one",
+      "de": "eins"
+    },
+    {
+      "id": 12,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "dy",
+      "en": "two",
+      "de": "zwei"
+    },
+    {
+      "id": 13,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "tre",
+      "en": "three",
+      "de": "drei"
+    },
+    {
+      "id": 14,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "katër",
+      "en": "four",
+      "de": "vier"
+    },
+    {
+      "id": 15,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "pesë",
+      "en": "five",
+      "de": "fünf"
+    },
+    {
+      "id": 16,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "gjashtë",
+      "en": "six",
+      "de": "sechs"
+    },
+    {
+      "id": 17,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "shtatë",
+      "en": "seven",
+      "de": "sieben"
+    },
+    {
+      "id": 18,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "tetë",
+      "en": "eight",
+      "de": "acht"
+    },
+    {
+      "id": 19,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "nëntë",
+      "en": "nine",
+      "de": "neun"
+    },
+    {
+      "id": 20,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "dhjetë",
+      "en": "ten",
+      "de": "zehn"
+    },
+    {
+      "id": 21,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "Ç'orë është?",
+      "en": "What time is it?",
+      "de": "Wie spät ist es?"
+    },
+    {
+      "id": 22,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "sot",
+      "en": "today",
+      "de": "heute"
+    },
+    {
+      "id": 23,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "dje",
+      "en": "yesterday",
+      "de": "gestern"
+    },
+    {
+      "id": 24,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "nesër",
+      "en": "tomorrow",
+      "de": "morgen"
+    },
+    {
+      "id": 25,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "E hënë",
+      "en": "Monday",
+      "de": "Montag"
+    },
+    {
+      "id": 26,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "E martë",
+      "en": "Tuesday",
+      "de": "Dienstag"
+    },
+    {
+      "id": 27,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "E mërkurë",
+      "en": "Wednesday",
+      "de": "Mittwoch"
+    },
+    {
+      "id": 28,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "E enjte",
+      "en": "Thursday",
+      "de": "Donnerstag"
+    },
+    {
+      "id": 29,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "E premte",
+      "en": "Friday",
+      "de": "Freitag"
+    },
+    {
+      "id": 30,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "E shtunë",
+      "en": "Saturday",
+      "de": "Samstag"
+    },
+    {
+      "id": 31,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "E diel",
+      "en": "Sunday",
+      "de": "Sonntag"
+    },
+    {
+      "id": 32,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "bukë",
+      "en": "bread",
+      "de": "Brot"
+    },
+    {
+      "id": 33,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "ujë",
+      "en": "water",
+      "de": "Wasser"
+    },
+    {
+      "id": 34,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "qumësht",
+      "en": "milk",
+      "de": "Milch"
+    },
+    {
+      "id": 35,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "mish",
+      "en": "meat",
+      "de": "Fleisch"
+    },
+    {
+      "id": 36,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "peshk",
+      "en": "fish",
+      "de": "Fisch"
+    },
+    {
+      "id": 37,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "perime",
+      "en": "vegetables",
+      "de": "Gemüse"
+    },
+    {
+      "id": 38,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "fruta",
+      "en": "fruits",
+      "de": "Früchte"
+    },
+    {
+      "id": 39,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "aeroport",
+      "en": "airport",
+      "de": "Flughafen"
+    },
+    {
+      "id": 40,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "stacion treni",
+      "en": "train station",
+      "de": "Bahnhof"
+    },
+    {
+      "id": 41,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "hotel",
+      "en": "hotel",
+      "de": "Hotel"
+    },
+    {
+      "id": 42,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "Ku është...?",
+      "en": "Where is...?",
+      "de": "Wo ist...?"
+    },
+    {
+      "id": 43,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "A mund të më ndihmoni?",
+      "en": "Can you help me?",
+      "de": "Können Sie mir helfen?"
+    },
+    {
+      "id": 44,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "mbledhje",
+      "en": "meeting",
+      "de": "Besprechung"
+    },
+    {
+      "id": 45,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "kontratë",
+      "en": "contract",
+      "de": "Vertrag"
+    },
+    {
+      "id": 46,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "kompani",
+      "en": "company",
+      "de": "Unternehmen"
+    },
+    {
+      "id": 47,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "shkollë",
+      "en": "school",
+      "de": "Schule"
+    },
+    {
+      "id": 48,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "universitet",
+      "en": "university",
+      "de": "Universität"
+    },
+    {
+      "id": 49,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "mësues",
+      "en": "teacher",
+      "de": "Lehrer"
+    },
+    {
+      "id": 50,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "student",
+      "en": "student",
+      "de": "Student"
+    },
+    {
+      "id": 51,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i lumtur",
+      "en": "happy",
+      "de": "glücklich"
+    },
+    {
+      "id": 52,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i trishtuar",
+      "en": "sad",
+      "de": "traurig"
+    },
+    {
+      "id": 53,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i zemëruar",
+      "en": "angry",
+      "de": "wütend"
+    },
+    {
+      "id": 54,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i frikësuar",
+      "en": "scared",
+      "de": "ängstlich"
+    },
+    {
+      "id": 55,
+      "category": "weather",
+      "difficulty": "beginner",
+      "sq": "diell",
+      "en": "sun",
+      "de": "Sonne"
+    },
+    {
+      "id": 56,
+      "category": "weather",
+      "difficulty": "beginner",
+      "sq": "shi",
+      "en": "rain",
+      "de": "Regen"
+    },
+    {
+      "id": 57,
+      "category": "weather",
+      "difficulty": "beginner",
+      "sq": "borë",
+      "en": "snow",
+      "de": "Schnee"
+    },
+    {
+      "id": 58,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "Çfarë moti është?",
+      "en": "What's the weather like?",
+      "de": "Wie ist das Wetter?"
+    },
+    {
+      "id": 59,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "familje",
+      "en": "family",
+      "de": "Familie"
+    },
+    {
+      "id": 60,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "baba",
+      "en": "father",
+      "de": "Vater"
+    },
+    {
+      "id": 61,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "nënë",
+      "en": "mother",
+      "de": "Mutter"
+    },
+    {
+      "id": 62,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "vëlla",
+      "en": "brother",
+      "de": "Bruder"
+    },
+    {
+      "id": 63,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "motër",
+      "en": "sister",
+      "de": "Schwester"
+    },
+    {
+      "id": 64,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "kokë",
+      "en": "head",
+      "de": "Kopf"
+    },
+    {
+      "id": 65,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "sy",
+      "en": "eye",
+      "de": "Auge"
+    },
+    {
+      "id": 66,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "hundë",
+      "en": "nose",
+      "de": "Nase"
+    },
+    {
+      "id": 67,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "gojë",
+      "en": "mouth",
+      "de": "Mund"
+    },
+    {
+      "id": 68,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "dorë",
+      "en": "hand",
+      "de": "Hand"
+    },
+    {
+      "id": 69,
+      "category": "colors",
+      "difficulty": "beginner",
+      "sq": "e kuqe",
+      "en": "red",
+      "de": "rot"
+    },
+    {
+      "id": 70,
+      "category": "colors",
+      "difficulty": "beginner",
+      "sq": "e kaltër",
+      "en": "blue",
+      "de": "blau"
+    },
+    {
+      "id": 71,
+      "category": "colors",
+      "difficulty": "beginner",
+      "sq": "e gjelbër",
+      "en": "green",
+      "de": "grün"
+    },
+    {
+      "id": 72,
+      "category": "colors",
+      "difficulty": "beginner",
+      "sq": "e verdhë",
+      "en": "yellow",
+      "de": "gelb"
+    },
+    {
+      "id": 73,
+      "category": "colors",
+      "difficulty": "beginner",
+      "sq": "e zezë",
+      "en": "black",
+      "de": "schwarz"
+    },
+    {
+      "id": 74,
+      "category": "colors",
+      "difficulty": "beginner",
+      "sq": "e bardhë",
+      "en": "white",
+      "de": "weiß"
+    },
+    {
+      "id": 75,
+      "category": "animals",
+      "difficulty": "beginner",
+      "sq": "qen",
+      "en": "dog",
+      "de": "Hund"
+    },
+    {
+      "id": 76,
+      "category": "animals",
+      "difficulty": "beginner",
+      "sq": "mace",
+      "en": "cat",
+      "de": "Katze"
+    },
+    {
+      "id": 77,
+      "category": "animals",
+      "difficulty": "beginner",
+      "sq": "kalë",
+      "en": "horse",
+      "de": "Pferd"
+    },
+    {
+      "id": 78,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "elefant",
+      "en": "elephant",
+      "de": "Elefant"
+    },
+    {
+      "id": 79,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "luan",
+      "en": "lion",
+      "de": "Löwe"
+    },
+    {
+      "id": 80,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "kompjuter",
+      "en": "computer",
+      "de": "Computer"
+    },
+    {
+      "id": 81,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "telefon",
+      "en": "phone",
+      "de": "Telefon"
+    },
+    {
+      "id": 82,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "internet",
+      "en": "internet",
+      "de": "Internet"
+    },
+    {
+      "id": 83,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "futboll",
+      "en": "football",
+      "de": "Fußball"
+    },
+    {
+      "id": 84,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "basketboll",
+      "en": "basketball",
+      "de": "Basketball"
+    },
+    {
+      "id": 85,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "tenis",
+      "en": "tennis",
+      "de": "Tennis"
+    },
+    {
+      "id": 86,
+      "category": "clothing",
+      "difficulty": "beginner",
+      "sq": "këmishë",
+      "en": "shirt",
+      "de": "Hemd"
+    },
+    {
+      "id": 87,
+      "category": "clothing",
+      "difficulty": "beginner",
+      "sq": "pantallona",
+      "en": "pants",
+      "de": "Hose"
+    },
+    {
+      "id": 88,
+      "category": "clothing",
+      "difficulty": "beginner",
+      "sq": "këpucë",
+      "en": "shoes",
+      "de": "Schuhe"
+    },
+    {
+      "id": 89,
+      "category": "healthcare",
+      "difficulty": "intermediate",
+      "sq": "mjek",
+      "en": "doctor",
+      "de": "Arzt"
+    },
+    {
+      "id": 90,
+      "category": "healthcare",
+      "difficulty": "intermediate",
+      "sq": "spital",
+      "en": "hospital",
+      "de": "Krankenhaus"
+    },
+    {
+      "id": 91,
+      "category": "healthcare",
+      "difficulty": "advanced",
+      "sq": "Nuk ndihem mirë",
+      "en": "I don't feel well",
+      "de": "Ich fühle mich nicht wohl"
+    },
+    {
+      "id": 92,
+      "category": "shopping",
+      "difficulty": "intermediate",
+      "sq": "Sa kushton?",
+      "en": "How much does it cost?",
+      "de": "Wie viel kostet es?"
+    },
+    {
+      "id": 93,
+      "category": "shopping",
+      "difficulty": "intermediate",
+      "sq": "dyqan",
+      "en": "shop",
+      "de": "Geschäft"
+    },
+    {
+      "id": 94,
+      "category": "shopping",
+      "difficulty": "intermediate",
+      "sq": "para",
+      "en": "money",
+      "de": "Geld"
+    },
+    {
+      "id": 95,
+      "category": "directions",
+      "difficulty": "intermediate",
+      "sq": "djathtas",
+      "en": "right",
+      "de": "rechts"
+    },
+    {
+      "id": 96,
+      "category": "directions",
+      "difficulty": "intermediate",
+      "sq": "majtas",
+      "en": "left",
+      "de": "links"
+    },
+    {
+      "id": 97,
+      "category": "directions",
+      "difficulty": "intermediate",
+      "sq": "drejt",
+      "en": "straight",
+      "de": "geradeaus"
+    },
+    {
+      "id": 98,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Nuk e kuptoj",
+      "en": "I don't understand",
+      "de": "Ich verstehe nicht"
+    },
+    {
+      "id": 99,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "A flisni anglisht?",
+      "en": "Do you speak English?",
+      "de": "Sprechen Sie Englisch?"
+    },
+    {
+      "id": 100,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Më vjen keq",
+      "en": "I'm sorry",
+      "de": "Es tut mir leid"
+    },
+    {
+      "id": 101,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "njëzet",
+      "en": "twenty",
+      "de": "zwanzig"
+    },
+    {
+      "id": 102,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "tridhjetë",
+      "en": "thirty",
+      "de": "dreißig"
+    },
+    {
+      "id": 103,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "dyzet",
+      "en": "forty",
+      "de": "vierzig"
+    },
+    {
+      "id": 104,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "pesëdhjetë",
+      "en": "fifty",
+      "de": "fünfzig"
+    },
+    {
+      "id": 105,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "njëqind",
+      "en": "one hundred",
+      "de": "einhundert"
+    },
+    {
+      "id": 106,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "një mijë",
+      "en": "one thousand",
+      "de": "eintausend"
+    },
+    {
+      "id": 107,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "djathë",
+      "en": "cheese",
+      "de": "Käse"
+    },
+    {
+      "id": 108,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "vezë",
+      "en": "egg",
+      "de": "Ei"
+    },
+    {
+      "id": 109,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "mollë",
+      "en": "apple",
+      "de": "Apfel"
+    },
+    {
+      "id": 110,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "banane",
+      "en": "banana",
+      "de": "Banane"
+    },
+    {
+      "id": 111,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "Kam uri",
+      "en": "I am hungry",
+      "de": "Ich habe Hunger"
+    },
+    {
+      "id": 112,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "Kam etje",
+      "en": "I am thirsty",
+      "de": "Ich habe Durst"
+    },
+    {
+      "id": 113,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "Mund të porosis?",
+      "en": "Can I order?",
+      "de": "Kann ich bestellen?"
+    },
+    {
+      "id": 114,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "autobus",
+      "en": "bus",
+      "de": "Bus"
+    },
+    {
+      "id": 115,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "taksi",
+      "en": "taxi",
+      "de": "Taxi"
+    },
+    {
+      "id": 116,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "aeroplan",
+      "en": "airplane",
+      "de": "Flugzeug"
+    },
+    {
+      "id": 117,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "tren",
+      "en": "train",
+      "de": "Zug"
+    },
+    {
+      "id": 118,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Sa kohë zgjat udhëtimi?",
+      "en": "How long does the journey take?",
+      "de": "Wie lange dauert die Reise?"
+    },
+    {
+      "id": 119,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Ku është stacioni më i afërt?",
+      "en": "Where is the nearest station?",
+      "de": "Wo ist der nächste Bahnhof?"
+    },
+    {
+      "id": 120,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Sa kushton bileta?",
+      "en": "How much does the ticket cost?",
+      "de": "Wie viel kostet das Ticket?"
+    },
+    {
+      "id": 121,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "zyrë",
+      "en": "office",
+      "de": "Büro"
+    },
+    {
+      "id": 122,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "punëtor",
+      "en": "employee",
+      "de": "Angestellter"
+    },
+    {
+      "id": 123,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "menaxher",
+      "en": "manager",
+      "de": "Manager"
+    },
+    {
+      "id": 124,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Kur është mbledhja?",
+      "en": "When is the meeting?",
+      "de": "Wann ist die Besprechung?"
+    },
+    {
+      "id": 125,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "A keni një kartëvizitë?",
+      "en": "Do you have a business card?",
+      "de": "Haben Sie eine Visitenkarte?"
+    },
+    {
+      "id": 126,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "libër",
+      "en": "book",
+      "de": "Buch"
+    },
+    {
+      "id": 127,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "stilolaps",
+      "en": "pen",
+      "de": "Stift"
+    },
+    {
+      "id": 128,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "klasë",
+      "en": "classroom",
+      "de": "Klassenzimmer"
+    },
+    {
+      "id": 129,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "provim",
+      "en": "exam",
+      "de": "Prüfung"
+    },
+    {
+      "id": 130,
+      "category": "education",
+      "difficulty": "advanced",
+      "sq": "Çfarë studioni?",
+      "en": "What do you study?",
+      "de": "Was studieren Sie?"
+    },
+    {
+      "id": 131,
+      "category": "education",
+      "difficulty": "advanced",
+      "sq": "Kur janë pushimet?",
+      "en": "When are the holidays?",
+      "de": "Wann sind die Ferien?"
+    },
+    {
+      "id": 132,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i lodhur",
+      "en": "tired",
+      "de": "müde"
+    },
+    {
+      "id": 133,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i emocionuar",
+      "en": "excited",
+      "de": "aufgeregt"
+    },
+    {
+      "id": 134,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i nervozuar",
+      "en": "nervous",
+      "de": "nervös"
+    },
+    {
+      "id": 135,
+      "category": "emotions",
+      "difficulty": "advanced",
+      "sq": "Ndihem mirë",
+      "en": "I feel good",
+      "de": "Ich fühle mich gut"
+    },
+    {
+      "id": 136,
+      "category": "emotions",
+      "difficulty": "advanced",
+      "sq": "Jam i mërzitur",
+      "en": "I am bored",
+      "de": "Mir ist langweilig"
+    },
+    {
+      "id": 137,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "erë",
+      "en": "wind",
+      "de": "Wind"
+    },
+    {
+      "id": 138,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "re",
+      "en": "clouds",
+      "de": "Wolken"
+    },
+    {
+      "id": 139,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "i nxehtë",
+      "en": "hot",
+      "de": "heiß"
+    },
+    {
+      "id": 140,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "i ftohtë",
+      "en": "cold",
+      "de": "kalt"
+    },
+    {
+      "id": 141,
+      "category": "weather",
+      "difficulty": "advanced",
+      "sq": "Sot është mot i bukur",
+      "en": "Today is beautiful weather",
+      "de": "Heute ist schönes Wetter"
+    },
+    {
+      "id": 142,
+      "category": "weather",
+      "difficulty": "advanced",
+      "sq": "Do të bjerë shi?",
+      "en": "Will it rain?",
+      "de": "Wird es regnen?"
+    },
+    {
+      "id": 143,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "gjysh",
+      "en": "grandfather",
+      "de": "Großvater"
+    },
+    {
+      "id": 144,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "gjyshe",
+      "en": "grandmother",
+      "de": "Großmutter"
+    },
+    {
+      "id": 145,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "xhaxha",
+      "en": "uncle",
+      "de": "Onkel"
+    },
+    {
+      "id": 146,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "teze",
+      "en": "aunt",
+      "de": "Tante"
+    },
+    {
+      "id": 147,
+      "category": "family",
+      "difficulty": "advanced",
+      "sq": "Sa anëtarë ka familja juaj?",
+      "en": "How many members does your family have?",
+      "de": "Wie viele Mitglieder hat Ihre Familie?"
+    },
+    {
+      "id": 148,
+      "category": "body_parts",
+      "difficulty": "intermediate",
+      "sq": "këmbë",
+      "en": "foot",
+      "de": "Fuß"
+    },
+    {
+      "id": 149,
+      "category": "body_parts",
+      "difficulty": "intermediate",
+      "sq": "krah",
+      "en": "arm",
+      "de": "Arm"
+    },
+    {
+      "id": 150,
+      "category": "body_parts",
+      "difficulty": "intermediate",
+      "sq": "vesh",
+      "en": "ear",
+      "de": "Ohr"
+    },
+    {
+      "id": 151,
+      "category": "body_parts",
+      "difficulty": "intermediate",
+      "sq": "dhëmb",
+      "en": "tooth",
+      "de": "Zahn"
+    },
+    {
+      "id": 152,
+      "category": "body_parts",
+      "difficulty": "advanced",
+      "sq": "Më dhemb koka",
+      "en": "I have a headache",
+      "de": "Ich habe Kopfschmerzen"
+    },
+    {
+      "id": 153,
+      "category": "colors",
+      "difficulty": "intermediate",
+      "sq": "portokalli",
+      "en": "orange",
+      "de": "orange"
+    },
+    {
+      "id": 154,
+      "category": "colors",
+      "difficulty": "intermediate",
+      "sq": "vjollcë",
+      "en": "purple",
+      "de": "lila"
+    },
+    {
+      "id": 155,
+      "category": "colors",
+      "difficulty": "intermediate",
+      "sq": "rozë",
+      "en": "pink",
+      "de": "rosa"
+    },
+    {
+      "id": 156,
+      "category": "colors",
+      "difficulty": "intermediate",
+      "sq": "ngjyrë kafe",
+      "en": "brown",
+      "de": "braun"
+    },
+    {
+      "id": 157,
+      "category": "colors",
+      "difficulty": "advanced",
+      "sq": "Cili është ngjyra juaj e preferuar?",
+      "en": "What is your favorite color?",
+      "de": "Was ist Ihre Lieblingsfarbe?"
+    },
+    {
+      "id": 158,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "zog",
+      "en": "bird",
+      "de": "Vogel"
+    },
+    {
+      "id": 159,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "peshk",
+      "en": "fish",
+      "de": "Fisch"
+    },
+    {
+      "id": 160,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "lopë",
+      "en": "cow",
+      "de": "Kuh"
+    },
+    {
+      "id": 161,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "dele",
+      "en": "sheep",
+      "de": "Schaf"
+    },
+    {
+      "id": 162,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "dhia",
+      "en": "goat",
+      "de": "Ziege"
+    },
+    {
+      "id": 163,
+      "category": "animals",
+      "difficulty": "advanced",
+      "sq": "A keni kafshë shtëpiake?",
+      "en": "Do you have pets?",
+      "de": "Haben Sie Haustiere?"
+    },
+    {
+      "id": 164,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "televizor",
+      "en": "television",
+      "de": "Fernseher"
+    },
+    {
+      "id": 165,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "radio",
+      "en": "radio",
+      "de": "Radio"
+    },
+    {
+      "id": 166,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "kamera",
+      "en": "camera",
+      "de": "Kamera"
+    },
+    {
+      "id": 167,
+      "category": "technology",
+      "difficulty": "advanced",
+      "sq": "email",
+      "en": "email",
+      "de": "E-Mail"
+    },
+    {
+      "id": 168,
+      "category": "technology",
+      "difficulty": "advanced",
+      "sq": "A keni Wi-Fi?",
+      "en": "Do you have Wi-Fi?",
+      "de": "Haben Sie WLAN?"
+    },
+    {
+      "id": 169,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "notim",
+      "en": "swimming",
+      "de": "Schwimmen"
+    },
+    {
+      "id": 170,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "vrapim",
+      "en": "running",
+      "de": "Laufen"
+    },
+    {
+      "id": 171,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "çiklizëm",
+      "en": "cycling",
+      "de": "Radfahren"
+    },
+    {
+      "id": 172,
+      "category": "sports",
+      "difficulty": "advanced",
+      "sq": "Cili është sporti juaj i preferuar?",
+      "en": "What is your favorite sport?",
+      "de": "Was ist Ihr Lieblingssport?"
+    },
+    {
+      "id": 173,
+      "category": "clothing",
+      "difficulty": "intermediate",
+      "sq": "xhaketë",
+      "en": "jacket",
+      "de": "Jacke"
+    },
+    {
+      "id": 174,
+      "category": "clothing",
+      "difficulty": "intermediate",
+      "sq": "kapele",
+      "en": "hat",
+      "de": "Hut"
+    },
+    {
+      "id": 175,
+      "category": "clothing",
+      "difficulty": "intermediate",
+      "sq": "çorape",
+      "en": "socks",
+      "de": "Socken"
+    },
+    {
+      "id": 176,
+      "category": "clothing",
+      "difficulty": "intermediate",
+      "sq": "fustan",
+      "en": "dress",
+      "de": "Kleid"
+    },
+    {
+      "id": 177,
+      "category": "clothing",
+      "difficulty": "advanced",
+      "sq": "Ku mund të blej rroba?",
+      "en": "Where can I buy clothes?",
+      "de": "Wo kann ich Kleidung kaufen?"
+    },
+    {
+      "id": 178,
+      "category": "healthcare",
+      "difficulty": "intermediate",
+      "sq": "infermiere",
+      "en": "nurse",
+      "de": "Krankenschwester"
+    },
+    {
+      "id": 179,
+      "category": "healthcare",
+      "difficulty": "intermediate",
+      "sq": "barnatore",
+      "en": "pharmacy",
+      "de": "Apotheke"
+    },
+    {
+      "id": 180,
+      "category": "healthcare",
+      "difficulty": "intermediate",
+      "sq": "ilaç",
+      "en": "medicine",
+      "de": "Medizin"
+    },
+    {
+      "id": 181,
+      "category": "healthcare",
+      "difficulty": "advanced",
+      "sq": "Ku është spitali më i afërt?",
+      "en": "Where is the nearest hospital?",
+      "de": "Wo ist das nächste Krankenhaus?"
+    },
+    {
+      "id": 182,
+      "category": "healthcare",
+      "difficulty": "advanced",
+      "sq": "Kam nevojë për ndihmë mjekësore",
+      "en": "I need medical help",
+      "de": "Ich brauche medizinische Hilfe"
+    },
+    {
+      "id": 183,
+      "category": "shopping",
+      "difficulty": "intermediate",
+      "sq": "qendër tregtare",
+      "en": "shopping center",
+      "de": "Einkaufszentrum"
+    },
+    {
+      "id": 184,
+      "category": "shopping",
+      "difficulty": "intermediate",
+      "sq": "çmim",
+      "en": "price",
+      "de": "Preis"
+    },
+    {
+      "id": 185,
+      "category": "shopping",
+      "difficulty": "intermediate",
+      "sq": "kartë krediti",
+      "en": "credit card",
+      "de": "Kreditkarte"
+    },
+    {
+      "id": 186,
+      "category": "shopping",
+      "difficulty": "advanced",
+      "sq": "A pranoni karta krediti?",
+      "en": "Do you accept credit cards?",
+      "de": "Akzeptieren Sie Kreditkarten?"
+    },
+    {
+      "id": 187,
+      "category": "shopping",
+      "difficulty": "advanced",
+      "sq": "Ku është kasa?",
+      "en": "Where is the cashier?",
+      "de": "Wo ist die Kasse?"
+    },
+    {
+      "id": 188,
+      "category": "directions",
+      "difficulty": "intermediate",
+      "sq": "lart",
+      "en": "up",
+      "de": "hoch"
+    },
+    {
+      "id": 189,
+      "category": "directions",
+      "difficulty": "intermediate",
+      "sq": "poshtë",
+      "en": "down",
+      "de": "runter"
+    },
+    {
+      "id": 190,
+      "category": "directions",
+      "difficulty": "intermediate",
+      "sq": "afër",
+      "en": "near",
+      "de": "nah"
+    },
+    {
+      "id": 191,
+      "category": "directions",
+      "difficulty": "intermediate",
+      "sq": "larg",
+      "en": "far",
+      "de": "weit"
+    },
+    {
+      "id": 192,
+      "category": "directions",
+      "difficulty": "advanced",
+      "sq": "A mund të më tregoni rrugën?",
+      "en": "Can you show me the way?",
+      "de": "Können Sie mir den Weg zeigen?"
+    },
+    {
+      "id": 193,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "Mirë se vini",
+      "en": "Welcome",
+      "de": "Willkommen"
+    },
+    {
+      "id": 194,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "Mirupafshim",
+      "en": "Goodbye",
+      "de": "Auf Wiedersehen"
+    },
+    {
+      "id": 195,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "Dëshiroj",
+      "en": "I want",
+      "de": "Ich möchte"
+    },
+    {
+      "id": 196,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Mund të më ndihmoni?",
+      "en": "Can you help me?",
+      "de": "Können Sie mir helfen?"
+    },
+    {
+      "id": 197,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Ku është banesa?",
+      "en": "Where is the bathroom?",
+      "de": "Wo ist die Toilette?"
+    },
+    {
+      "id": 198,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "ora",
+      "en": "hour",
+      "de": "Stunde"
+    },
+    {
+      "id": 199,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "minutë",
+      "en": "minute",
+      "de": "Minute"
+    },
+    {
+      "id": 200,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "sekondë",
+      "en": "second",
+      "de": "Sekunde"
+    },
+    {
+      "id": 201,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "Si ju quajnë?",
+      "en": "What is your name?",
+      "de": "Wie heißen Sie?"
+    },
+    {
+      "id": 202,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "Unë quhem Artan. Po ju?",
+      "en": "My name is Artan. And you?",
+      "de": "Ich heiße Artan. Und Sie?"
+    },
+    {
+      "id": 203,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "Kam ardhur për të vizituar Tiranën",
+      "en": "I came to visit Tirana",
+      "de": "Ich bin gekommen, um Tirana zu besuchen"
+    },
+    {
+      "id": 204,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "A dini ku është muzeu?",
+      "en": "Do you know where the museum is?",
+      "de": "Wissen Sie, wo das Museum ist?"
+    },
+    {
+      "id": 205,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "Më pëlqen shumë ky qytet",
+      "en": "I really like this city",
+      "de": "Diese Stadt gefällt mir sehr"
+    },
+    {
+      "id": 206,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "Keni qenë ndonjëherë në Shqipëri?",
+      "en": "Have you ever been to Albania?",
+      "de": "Waren Sie schon einmal in Albanien?"
+    },
+    {
+      "id": 207,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "Jo, është hera e parë për mua",
+      "en": "No, it's my first time",
+      "de": "Nein, es ist mein erstes Mal"
+    },
+    {
+      "id": 208,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "Sa kohë do të qëndroni këtu?",
+      "en": "How long will you stay here?",
+      "de": "Wie lange werden Sie hier bleiben?"
+    },
+    {
+      "id": 209,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "Dy javë, pastaj do të shkoj në Greqi",
+      "en": "Two weeks, then I'll go to Greece",
+      "de": "Zwei Wochen, dann fahre ich nach Griechenland"
+    },
+    {
+      "id": 210,
+      "category": "conversations",
+      "difficulty": "advanced",
+      "sq": "A mund të më rekomandoni disa restorante të mira?",
+      "en": "Can you recommend me some good restaurants?",
+      "de": "Können Sie mir einige gute Restaurants empfehlen?"
+    },
+    {
+      "id": 211,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Zakonisht zgjohem në orën shtatë",
+      "en": "I usually wake up at seven o'clock",
+      "de": "Ich wache gewöhnlich um sieben Uhr auf"
+    },
+    {
+      "id": 212,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Mëngjesi është vakti më i rëndësishëm i ditës",
+      "en": "Breakfast is the most important meal of the day",
+      "de": "Frühstück ist die wichtigste Mahlzeit des Tages"
+    },
+    {
+      "id": 213,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Shkoj në punë me autobus",
+      "en": "I go to work by bus",
+      "de": "Ich fahre mit dem Bus zur Arbeit"
+    },
+    {
+      "id": 214,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Punoj nga ora tetë deri në orën katër",
+      "en": "I work from eight to four",
+      "de": "Ich arbeite von acht bis vier Uhr"
+    },
+    {
+      "id": 215,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Pas pune shkoj në palestër",
+      "en": "After work I go to the gym",
+      "de": "Nach der Arbeit gehe ich ins Fitnessstudio"
+    },
+    {
+      "id": 216,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Më pëlqen të lexoj libra para gjumit",
+      "en": "I like to read books before sleep",
+      "de": "Ich lese gerne Bücher vor dem Schlafengehen"
+    },
+    {
+      "id": 217,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Fundjavën e kaloj me familjen time",
+      "en": "I spend the weekend with my family",
+      "de": "Das Wochenende verbringe ich mit meiner Familie"
+    },
+    {
+      "id": 218,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Të dielave shkojmë në kishë",
+      "en": "On Sundays we go to church",
+      "de": "Sonntags gehen wir in die Kirche"
+    },
+    {
+      "id": 219,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Më pëlqen të gatuaj për miqtë e mi",
+      "en": "I like to cook for my friends",
+      "de": "Ich koche gerne für meine Freunde"
+    },
+    {
+      "id": 220,
+      "category": "daily_life",
+      "difficulty": "advanced",
+      "sq": "Çdo mbrëmje shikoj lajmet",
+      "en": "Every evening I watch the news",
+      "de": "Jeden Abend schaue ich mir die Nachrichten an"
+    },
+    {
+      "id": 221,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "mësues",
+      "en": "teacher",
+      "de": "Lehrer"
+    },
+    {
+      "id": 222,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "doktor",
+      "en": "doctor",
+      "de": "Arzt"
+    },
+    {
+      "id": 223,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "inxhinier",
+      "en": "engineer",
+      "de": "Ingenieur"
+    },
+    {
+      "id": 224,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "avokat",
+      "en": "lawyer",
+      "de": "Anwalt"
+    },
+    {
+      "id": 225,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "kuzhinier",
+      "en": "cook",
+      "de": "Koch"
+    },
+    {
+      "id": 226,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "polic",
+      "en": "police officer",
+      "de": "Polizist"
+    },
+    {
+      "id": 227,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "zjarrfikës",
+      "en": "firefighter",
+      "de": "Feuerwehrmann"
+    },
+    {
+      "id": 228,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "këngëtar",
+      "en": "singer",
+      "de": "Sänger"
+    },
+    {
+      "id": 229,
+      "category": "professions",
+      "difficulty": "intermediate",
+      "sq": "aktor",
+      "en": "actor",
+      "de": "Schauspieler"
+    },
+    {
+      "id": 230,
+      "category": "professions",
+      "difficulty": "advanced",
+      "sq": "Çfarë bëni për punë?",
+      "en": "What do you do for work?",
+      "de": "Was machen Sie beruflich?"
+    },
+    {
+      "id": 231,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Ne duhet të nënshkruajmë kontratën",
+      "en": "We need to sign the contract",
+      "de": "Wir müssen den Vertrag unterschreiben"
+    },
+    {
+      "id": 232,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Cila është propozimi juaj?",
+      "en": "What is your proposal?",
+      "de": "Was ist Ihr Vorschlag?"
+    },
+    {
+      "id": 233,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Ne mund të ofrojmë një zbritje prej 10%",
+      "en": "We can offer a 10% discount",
+      "de": "Wir können einen Rabatt von 10% anbieten"
+    },
+    {
+      "id": 234,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "A keni përvojë në këtë fushë?",
+      "en": "Do you have experience in this field?",
+      "de": "Haben Sie Erfahrung auf diesem Gebiet?"
+    },
+    {
+      "id": 235,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Çfarë është afati i dorëzimit?",
+      "en": "What is the delivery deadline?",
+      "de": "Was ist die Lieferfrist?"
+    },
+    {
+      "id": 236,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "A keni dhoma të lira?",
+      "en": "Do you have vacant rooms?",
+      "de": "Haben Sie freie Zimmer?"
+    },
+    {
+      "id": 237,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Dua të rezervoj një dhomë për dy persona",
+      "en": "I want to book a room for two people",
+      "de": "Ich möchte ein Zimmer für zwei Personen buchen"
+    },
+    {
+      "id": 238,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Sa kushton një natë?",
+      "en": "How much does one night cost?",
+      "de": "Wie viel kostet eine Nacht?"
+    },
+    {
+      "id": 239,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "A përfshihet mëngjesi?",
+      "en": "Is breakfast included?",
+      "de": "Ist Frühstück inbegriffen?"
+    },
+    {
+      "id": 240,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Ku mund të shkëmbej para?",
+      "en": "Where can I exchange money?",
+      "de": "Wo kann ich Geld wechseln?"
+    },
+    {
+      "id": 241,
+      "category": "shopping",
+      "difficulty": "advanced",
+      "sq": "A e keni këtë në një madhësi tjetër?",
+      "en": "Do you have this in another size?",
+      "de": "Haben Sie das in einer anderen Größe?"
+    },
+    {
+      "id": 242,
+      "category": "shopping",
+      "difficulty": "advanced",
+      "sq": "A mund ta provoj?",
+      "en": "Can I try it on?",
+      "de": "Kann ich es anprobieren?"
+    },
+    {
+      "id": 243,
+      "category": "shopping",
+      "difficulty": "advanced",
+      "sq": "Do të marr këtë",
+      "en": "I will take this",
+      "de": "Ich nehme das"
+    },
+    {
+      "id": 244,
+      "category": "shopping",
+      "difficulty": "advanced",
+      "sq": "A keni ndonjë zbritje?",
+      "en": "Do you have any discounts?",
+      "de": "Haben Sie irgendwelche Rabatte?"
+    },
+    {
+      "id": 245,
+      "category": "shopping",
+      "difficulty": "advanced",
+      "sq": "Ku mund të gjej produkte vendase?",
+      "en": "Where can I find local products?",
+      "de": "Wo kann ich lokale Produkte finden?"
+    }
+  ]
+}
