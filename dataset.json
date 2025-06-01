@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "Albanian-English-German Translation Dataset",
-    "version": "1.0",
-    "description": "Comprehensive multilingual dataset for translation between Albanian (sq), English (en), and German (de)",
-    "languages": ["sq", "en", "de"],
-    "total_entries": 500,
-    "categories": ["greetings", "common_phrases", "numbers", "time", "food", "travel", "business", "education", "emotions", "weather", "family", "body_parts", "colors", "animals", "technology", "sports", "clothing", "healthcare", "shopping", "directions"]
+    "source_language": "sq",
+    "target_languages": ["en", "de"],
+    "version": "1.1.0",
+    "last_updated": "2025-06-01",
+    "total_entries": 630,
+    "categories": ["greetings", "common_phrases", "numbers", "time", "food", "travel", "business", "education", "emotions", "weather", "family", "body_parts", "colors", "animals", "technology", "sports", "clothing", "healthcare", "shopping", "directions", "conversations", "daily_life", "professions", "idioms", "formal_language", "literature", "science", "politics", "culture", "philosophy", "environment", "psychology", "economics", "law", "sociology", "history", "mathematics", "complex_conversations", "abstract_concepts", "technical_terminology", "metaphorical_language", "conditional_statements", "cultural_nuances", "emotional_complexity", "academic_discourse", "professional_jargon", "temporal_complexity", "gastronomy", "social_media", "artificial_intelligence", "cybersecurity", "renewable_energy", "urban_planning", "marine_biology", "space_exploration", "quantum_physics", "ethics"]
   },
   "translations": [
     {
@@ -1967,6 +1967,3085 @@
       "sq": "Ku mund të gjej produkte vendase?",
       "en": "Where can I find local products?",
       "de": "Wo kann ich lokale Produkte finden?"
+    },
+    {
+      "id": 246,
+      "category": "idioms",
+      "difficulty": "advanced",
+      "sq": "Iku si era nga veshi",
+      "en": "It went in one ear and out the other",
+      "de": "Das ging zum einen Ohr rein und zum anderen wieder raus"
+    },
+    {
+      "id": 247,
+      "category": "idioms",
+      "difficulty": "advanced",
+      "sq": "Pret sa të bjerë qielli mbi tokë",
+      "en": "Wait until pigs fly",
+      "de": "Warten bis die Kühe nach Hause kommen"
+    },
+    {
+      "id": 248,
+      "category": "idioms",
+      "difficulty": "advanced",
+      "sq": "Është i shquar nga koka deri te këmbët",
+      "en": "He's head and shoulders above the rest",
+      "de": "Er ragt über alle anderen hinaus"
+    },
+    {
+      "id": 249,
+      "category": "formal_language",
+      "difficulty": "advanced",
+      "sq": "Ju falenderoj përzemërsisht për mundësinë që më dhatë",
+      "en": "I sincerely thank you for the opportunity you gave me",
+      "de": "Ich danke Ihnen herzlich für die Gelegenheit, die Sie mir gegeben haben"
+    },
+    {
+      "id": 250,
+      "category": "formal_language",
+      "difficulty": "advanced",
+      "sq": "Kisha nderin të paraqes raportin vjetor të kompanisë",
+      "en": "I have the honor to present the company's annual report",
+      "de": "Ich habe die Ehre, den Jahresbericht des Unternehmens zu präsentieren"
+    },
+    {
+      "id": 251,
+      "category": "formal_language",
+      "difficulty": "advanced",
+      "sq": "Me respekt të thellë, ju drejtohem për këtë çështje delikate",
+      "en": "With deep respect, I address you regarding this delicate matter",
+      "de": "Mit tiefem Respekt wende ich mich an Sie bezüglich dieser heiklen Angelegenheit"
+    },
+    {
+      "id": 252,
+      "category": "literature",
+      "difficulty": "advanced",
+      "sq": "Drita e agimit zbeh errësirën e natës së gjatë",
+      "en": "The dawn light dispels the darkness of the long night",
+      "de": "Das Morgenlicht vertreibt die Dunkelheit der langen Nacht"
+    },
+    {
+      "id": 253,
+      "category": "literature",
+      "difficulty": "advanced",
+      "sq": "Zemra e saj rrahte si gjaku i detit të trazuar",
+      "en": "Her heart beat like the blood of a turbulent sea",
+      "de": "Ihr Herz schlug wie das Blut eines aufgewühlten Meeres"
+    },
+    {
+      "id": 254,
+      "category": "literature",
+      "difficulty": "advanced",
+      "sq": "Fjalët e tij ishin si mjaltë që rrjedh nga bletët e mençurisë",
+      "en": "His words were like honey flowing from the bees of wisdom",
+      "de": "Seine Worte waren wie Honig, der von den Bienen der Weisheit fließt"
+    },
+    {
+      "id": 255,
+      "category": "science",
+      "difficulty": "advanced",
+      "sq": "Parimi i paqëndrueshmërisë së Heisenbergut",
+      "en": "Heisenberg's uncertainty principle",
+      "de": "Heisenbergsche Unschärferelation"
+    },
+    {
+      "id": 256,
+      "category": "science",
+      "difficulty": "advanced",
+      "sq": "Procesi i fotosintezës konverton dritën diellore në energji kimike",
+      "en": "The process of photosynthesis converts sunlight into chemical energy",
+      "de": "Der Prozess der Photosynthese wandelt Sonnenlicht in chemische Energie um"
+    },
+    {
+      "id": 257,
+      "category": "science",
+      "difficulty": "advanced",
+      "sq": "Teoria e relativitetit të përgjithshëm e Einshteinit",
+      "en": "Einstein's theory of general relativity",
+      "de": "Einsteins allgemeine Relativitätstheorie"
+    },
+    {
+      "id": 258,
+      "category": "science",
+      "difficulty": "advanced",
+      "sq": "Molekulat e ADN-së përmbajen informacionin gjenetik",
+      "en": "DNA molecules contain genetic information",
+      "de": "DNA-Moleküle enthalten genetische Informationen"
+    },
+    {
+      "id": 259,
+      "category": "politics",
+      "difficulty": "advanced",
+      "sq": "Parlamenti miratoi ligjin me shumicë të thjeshtë",
+      "en": "Parliament passed the law by simple majority",
+      "de": "Das Parlament verabschiedete das Gesetz mit einfacher Mehrheit"
+    },
+    {
+      "id": 260,
+      "category": "politics",
+      "difficulty": "advanced",
+      "sq": "Kushtetuta garanton të drejtat themelore të qytetarëve",
+      "en": "The constitution guarantees the fundamental rights of citizens",
+      "de": "Die Verfassung garantiert die Grundrechte der Bürger"
+    },
+    {
+      "id": 261,
+      "category": "politics",
+      "difficulty": "advanced",
+      "sq": "Diplomacia ndërkombëtare kërkon negociata të hapura",
+      "en": "International diplomacy requires open negotiations",
+      "de": "Internationale Diplomatie erfordert offene Verhandlungen"
+    },
+    {
+      "id": 262,
+      "category": "culture",
+      "difficulty": "advanced",
+      "sq": "Folklori shqiptar pasqyron identitetin kombëtar",
+      "en": "Albanian folklore reflects national identity",
+      "de": "Die albanische Folklore spiegelt die nationale Identität wider"
+    },
+    {
+      "id": 263,
+      "category": "culture",
+      "difficulty": "advanced",
+      "sq": "Traditat e lashta ruhen përmes brezave",
+      "en": "Ancient traditions are preserved through generations",
+      "de": "Alte Traditionen werden über Generationen bewahrt"
+    },
+    {
+      "id": 264,
+      "category": "culture",
+      "difficulty": "advanced",
+      "sq": "Arti bashkëkohor sfidojnë kufijtë e traditës",
+      "en": "Contemporary art challenges the boundaries of tradition",
+      "de": "Zeitgenössische Kunst stellt die Grenzen der Tradition in Frage"
+    },
+    {
+      "id": 265,
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "sq": "Ekzistenca paraprirë thelbin sipas Sartre",
+      "en": "Existence precedes essence according to Sartre",
+      "de": "Existenz geht dem Wesen voraus nach Sartre"
+    },
+    {
+      "id": 266,
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "sq": "E vërteta është subjektive dhe relative",
+      "en": "Truth is subjective and relative",
+      "de": "Wahrheit ist subjektiv und relativ"
+    },
+    {
+      "id": 267,
+      "category": "philosophy",
+      "difficulty": "advanced",
+      "sq": "Morali bazohet në parimet e së drejtës universale",
+      "en": "Morality is based on principles of universal justice",
+      "de": "Moral basiert auf Prinzipien universeller Gerechtigkeit"
+    },
+    {
+      "id": 268,
+      "category": "technology",
+      "difficulty": "advanced",
+      "sq": "Inteligjenca artificiale po transformon industrinë",
+      "en": "Artificial intelligence is transforming industry",
+      "de": "Künstliche Intelligenz transformiert die Industrie"
+    },
+    {
+      "id": 269,
+      "category": "technology",
+      "difficulty": "advanced",
+      "sq": "Teknologjia blockchain siguron transparencë të plotë",
+      "en": "Blockchain technology ensures complete transparency",
+      "de": "Blockchain-Technologie gewährleistet vollständige Transparenz"
+    },
+    {
+      "id": 270,
+      "category": "technology",
+      "difficulty": "advanced",
+      "sq": "Realiteti virtual krijon përvojë immersive",
+      "en": "Virtual reality creates immersive experiences",
+      "de": "Virtuelle Realität schafft immersive Erfahrungen"
+    },
+    {
+      "id": 271,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Strategjia e marketingut duhet të jetë e orientuar nga konsumatori",
+      "en": "Marketing strategy must be consumer-oriented",
+      "de": "Die Marketingstrategie muss verbraucherorientiert sein"
+    },
+    {
+      "id": 272,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Analiza SWOT identifikon pikat e forta dhe dobësitë",
+      "en": "SWOT analysis identifies strengths and weaknesses",
+      "de": "SWOT-Analyse identifiziert Stärken und Schwächen"
+    },
+    {
+      "id": 273,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Menaxhimi i riskut është thelbësor për suksesin afatgjatë",
+      "en": "Risk management is essential for long-term success",
+      "de": "Risikomanagement ist wesentlich für langfristigen Erfolg"
+    },
+    {
+      "id": 274,
+      "category": "education",
+      "difficulty": "advanced",
+      "sq": "Pedagogjia moderne fokusohet te mësimi i personalizuar",
+      "en": "Modern pedagogy focuses on personalized learning",
+      "de": "Moderne Pädagogik konzentriert sich auf personalisiertes Lernen"
+    },
+    {
+      "id": 275,
+      "category": "education",
+      "difficulty": "advanced",
+      "sq": "Kurrikula duhet të përshtatet me nevojat e shekullit 21",
+      "en": "Curriculum must adapt to 21st century needs",
+      "de": "Der Lehrplan muss sich an die Bedürfnisse des 21. Jahrhunderts anpassen"
+    },
+    {
+      "id": 276,
+      "category": "education",
+      "difficulty": "advanced",
+      "sq": "Vlerësimi formatues përmirëson procesin mësimor",
+      "en": "Formative assessment improves the learning process",
+      "de": "Formative Bewertung verbessert den Lernprozess"
+    },
+    {
+      "id": 277,
+      "category": "healthcare",
+      "difficulty": "advanced",
+      "sq": "Medicina e personalizuar bazohet në gjenetikën individuale",
+      "en": "Personalized medicine is based on individual genetics",
+      "de": "Personalisierte Medizin basiert auf individueller Genetik"
+    },
+    {
+      "id": 278,
+      "category": "healthcare",
+      "difficulty": "advanced",
+      "sq": "Telemedicina zgjeroi qasjen në kujdesin shëndetësor",
+      "en": "Telemedicine expanded access to healthcare",
+      "de": "Telemedizin erweiterte den Zugang zur Gesundheitsversorgung"
+    },
+    {
+      "id": 279,
+      "category": "healthcare",
+      "difficulty": "advanced",
+      "sq": "Imunoterapia ofron shpresë të re për trajtimin e kancerit",
+      "en": "Immunotherapy offers new hope for cancer treatment",
+      "de": "Immuntherapie bietet neue Hoffnung für die Krebsbehandlung"
+    },
+    {
+      "id": 280,
+      "category": "environment",
+      "difficulty": "advanced",
+      "sq": "Ndryshimet klimatike kërkojnë veprime të menjëhershme",
+      "en": "Climate change requires immediate action",
+      "de": "Der Klimawandel erfordert sofortiges Handeln"
+    },
+    {
+      "id": 281,
+      "category": "environment",
+      "difficulty": "advanced",
+      "sq": "Energjitë e rinovueshme janë çelësi i së ardhmes së qëndrueshme",
+      "en": "Renewable energies are the key to a sustainable future",
+      "de": "Erneuerbare Energien sind der Schlüssel zu einer nachhaltigen Zukunft"
+    },
+    {
+      "id": 282,
+      "category": "environment",
+      "difficulty": "advanced",
+      "sq": "Biodiversiteti është në rrezik nga aktivitetet njerëzore",
+      "en": "Biodiversity is threatened by human activities",
+      "de": "Die Biodiversität ist durch menschliche Aktivitäten bedroht"
+    },
+    {
+      "id": 283,
+      "category": "psychology",
+      "difficulty": "advanced",
+      "sq": "Inteligjenca emocionale është po aq e rëndësishme sa IQ",
+      "en": "Emotional intelligence is as important as IQ",
+      "de": "Emotionale Intelligenz ist genauso wichtig wie der IQ"
+    },
+    {
+      "id": 284,
+      "category": "psychology",
+      "difficulty": "advanced",
+      "sq": "Terapia kognitivo-sjelljore ndryshon modelet e të menduarit",
+      "en": "Cognitive-behavioral therapy changes thinking patterns",
+      "de": "Kognitive Verhaltenstherapie verändert Denkmuster"
+    },
+    {
+      "id": 285,
+      "category": "psychology",
+      "difficulty": "advanced",
+      "sq": "Ndërgjegja kolektive ndikon në sjelljet individuale",
+      "en": "Collective consciousness influences individual behaviors",
+      "de": "Das kollektive Bewusstsein beeinflusst individuelles Verhalten"
+    },
+    {
+      "id": 286,
+      "category": "economics",
+      "difficulty": "advanced",
+      "sq": "Inflacioni ul fuqinë blerëse të konsumatorëve",
+      "en": "Inflation reduces consumers' purchasing power",
+      "de": "Inflation reduziert die Kaufkraft der Verbraucher"
+    },
+    {
+      "id": 287,
+      "category": "economics",
+      "difficulty": "advanced",
+      "sq": "Ekonomia e tregut të lirë mbështetet në konkurrencën",
+      "en": "Free market economy relies on competition",
+      "de": "Die freie Marktwirtschaft beruht auf Wettbewerb"
+    },
+    {
+      "id": 288,
+      "category": "economics",
+      "difficulty": "advanced",
+      "sq": "Globalizimi ndërlidh ekonomitë kombëtare",
+      "en": "Globalization interconnects national economies",
+      "de": "Globalisierung verbindet nationale Volkswirtschaften"
+    },
+    {
+      "id": 289,
+      "category": "law",
+      "difficulty": "advanced",
+      "sq": "Drejtësia është e verbër para ligjit",
+      "en": "Justice is blind before the law",
+      "de": "Gerechtigkeit ist blind vor dem Gesetz"
+    },
+    {
+      "id": 290,
+      "category": "law",
+      "difficulty": "advanced",
+      "sq": "Prezumimi i pafajësisë është parim themelor",
+      "en": "Presumption of innocence is a fundamental principle",
+      "de": "Die Unschuldsvermutung ist ein Grundprinzip"
+    },
+    {
+      "id": 291,
+      "category": "law",
+      "difficulty": "advanced",
+      "sq": "Gjykata kushtetuese interpreton ligjin themelor",
+      "en": "Constitutional court interprets fundamental law",
+      "de": "Das Verfassungsgericht interpretiert das Grundgesetz"
+    },
+    {
+      "id": 292,
+      "category": "sociology",
+      "difficulty": "advanced",
+      "sq": "Institucionet sociale formësojnë sjelljet kollektive",
+      "en": "Social institutions shape collective behaviors",
+      "de": "Soziale Institutionen prägen kollektive Verhaltensweisen"
+    },
+    {
+      "id": 293,
+      "category": "sociology",
+      "difficulty": "advanced",
+      "sq": "Stratifikimi social krijon pabarazi në shoqëri",
+      "en": "Social stratification creates inequality in society",
+      "de": "Soziale Schichtung schafft Ungleichheit in der Gesellschaft"
+    },
+    {
+      "id": 294,
+      "category": "sociology",
+      "difficulty": "advanced",
+      "sq": "Socializimi primar ndodh në familje",
+      "en": "Primary socialization occurs in the family",
+      "de": "Primäre Sozialisation findet in der Familie statt"
+    },
+    {
+      "id": 295,
+      "category": "history",
+      "difficulty": "advanced",
+      "sq": "Perandoria Bizantine lindi nga Perandoria Romake",
+      "en": "Byzantine Empire emerged from the Roman Empire",
+      "de": "Das Byzantinische Reich entstand aus dem Römischen Reich"
+    },
+    {
+      "id": 296,
+      "category": "history",
+      "difficulty": "advanced",
+      "sq": "Rilindja solli një revolucion në art dhe shkencë",
+      "en": "Renaissance brought a revolution in art and science",
+      "de": "Die Renaissance brachte eine Revolution in Kunst und Wissenschaft"
+    },
+    {
+      "id": 297,
+      "category": "history",
+      "difficulty": "advanced",
+      "sq": "Lufta e Dytë Botërore ndryshoi rendin gjeopolitik",
+      "en": "World War II changed the geopolitical order",
+      "de": "Der Zweite Weltkrieg veränderte die geopolitische Ordnung"
+    },
+    {
+      "id": 298,
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "sq": "Teorema e Pitagorës shpreh marrëdhënien në trekëndëshit kënddrejtë",
+      "en": "Pythagorean theorem expresses the relationship in right triangles",
+      "de": "Der Satz des Pythagoras drückt die Beziehung in rechtwinkligen Dreiecken aus"
+    },
+    {
+      "id": 299,
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "sq": "Kalkuli diferencial studion shkallën e ndryshimit",
+      "en": "Differential calculus studies the rate of change",
+      "de": "Differentialrechnung untersucht die Änderungsrate"
+    },
+    {
+      "id": 300,
+      "category": "mathematics",
+      "difficulty": "advanced",
+      "sq": "Teoria e probabilitetit mat mundësinë e ngjarjeve",
+      "en": "Probability theory measures the likelihood of events",
+      "de": "Wahrscheinlichkeitstheorie misst die Wahrscheinlichkeit von Ereignissen"
+    },
+    {
+      "id": 301,
+      "category": "complex_conversations",
+      "difficulty": "advanced",
+      "sq": "Megjithatë, duhet të marrim parasysh implikimet afatgjata të kësaj vendimi",
+      "en": "Nevertheless, we must consider the long-term implications of this decision",
+      "de": "Dennoch müssen wir die langfristigen Auswirkungen dieser Entscheidung berücksichtigen"
+    },
+    {
+      "id": 302,
+      "category": "complex_conversations",
+      "difficulty": "advanced",
+      "sq": "Pavarësisht vështirësive, besoj se mund ta arrijmë objektivin tonë",
+      "en": "Despite the difficulties, I believe we can achieve our objective",
+      "de": "Trotz der Schwierigkeiten glaube ich, dass wir unser Ziel erreichen können"
+    },
+    {
+      "id": 303,
+      "category": "complex_conversations",
+      "difficulty": "advanced",
+      "sq": "Përkundrazi, do të argumentoja se kjo qasje është më efikase",
+      "en": "On the contrary, I would argue that this approach is more effective",
+      "de": "Im Gegenteil, ich würde argumentieren, dass dieser Ansatz effektiver ist"
+    },
+    {
+      "id": 304,
+      "category": "abstract_concepts",
+      "difficulty": "advanced",
+      "sq": "Koncepti i kohës është relativ dhe subjektiv",
+      "en": "The concept of time is relative and subjective",
+      "de": "Das Konzept der Zeit ist relativ und subjektiv"
+    },
+    {
+      "id": 305,
+      "category": "abstract_concepts",
+      "difficulty": "advanced",
+      "sq": "Liri është aftësia për të zgjedhur ndërmjet alternativave",
+      "en": "Freedom is the ability to choose between alternatives",
+      "de": "Freiheit ist die Fähigkeit, zwischen Alternativen zu wählen"
+    },
+    {
+      "id": 306,
+      "category": "abstract_concepts",
+      "difficulty": "advanced",
+      "sq": "Bukuria qëndron në sytë e shikuesit",
+      "en": "Beauty lies in the eye of the beholder",
+      "de": "Schönheit liegt im Auge des Betrachters"
+    },
+    {
+      "id": 307,
+      "category": "technical_terminology",
+      "difficulty": "advanced",
+      "sq": "Algoritmi i mësimit të makinave optimizon parametrat automatikisht",
+      "en": "Machine learning algorithm optimizes parameters automatically",
+      "de": "Machine-Learning-Algorithmus optimiert Parameter automatisch"
+    },
+    {
+      "id": 308,
+      "category": "technical_terminology",
+      "difficulty": "advanced",
+      "sq": "Infrastruktura cloud ofron skalabilitet dhe elasticitet",
+      "en": "Cloud infrastructure provides scalability and elasticity",
+      "de": "Cloud-Infrastruktur bietet Skalierbarkeit und Elastizität"
+    },
+    {
+      "id": 309,
+      "category": "technical_terminology",
+      "difficulty": "advanced",
+      "sq": "Protokolli i enkriptimit siguron konfidencialitetin e të dhënave",
+      "en": "Encryption protocol ensures data confidentiality",
+      "de": "Verschlüsselungsprotokoll gewährleistet Datenkonfidentialität"
+    },
+    {
+      "id": 310,
+      "category": "metaphorical_language",
+      "difficulty": "advanced",
+      "sq": "Jeta është një udhëtim plot sfida dhe mundësi",
+      "en": "Life is a journey full of challenges and opportunities",
+      "de": "Das Leben ist eine Reise voller Herausforderungen und Möglichkeiten"
+    },
+    {
+      "id": 311,
+      "category": "metaphorical_language",
+      "difficulty": "advanced",
+      "sq": "Mendja e tij ishte një oqean i thellë i dijes",
+      "en": "His mind was a deep ocean of knowledge",
+      "de": "Sein Geist war ein tiefer Ozean des Wissens"
+    },
+    {
+      "id": 312,
+      "category": "metaphorical_language",
+      "difficulty": "advanced",
+      "sq": "Koha është para që nuk mund të blihet përsëri",
+      "en": "Time is money that cannot be bought again",
+      "de": "Zeit ist Geld, das nicht wieder gekauft werden kann"
+    },
+    {
+      "id": 313,
+      "category": "conditional_statements",
+      "difficulty": "advanced",
+      "sq": "Sikur të kisha ditur paraprakisht, do të veproja ndryshe",
+      "en": "Had I known beforehand, I would have acted differently",
+      "de": "Hätte ich es vorher gewusst, hätte ich anders gehandelt"
+    },
+    {
+      "id": 314,
+      "category": "conditional_statements",
+      "difficulty": "advanced",
+      "sq": "Po të ishte rasti ideal, do të implementonim strategjinë e re",
+      "en": "Were it the ideal case, we would implement the new strategy",
+      "de": "Wäre es der ideale Fall, würden wir die neue Strategie umsetzen"
+    },
+    {
+      "id": 315,
+      "category": "conditional_statements",
+      "difficulty": "advanced",
+      "sq": "Edhe sikur të ndodhte e papritura, ne jemi të përgatitur",
+      "en": "Even if the unexpected happens, we are prepared",
+      "de": "Auch wenn das Unerwartete passiert, sind wir vorbereitet"
+    },
+    {
+      "id": 316,
+      "category": "cultural_nuances",
+      "difficulty": "advanced",
+      "sq": "Mikpritja shqiptare është e famshme në të gjithë botën",
+      "en": "Albanian hospitality is famous throughout the world",
+      "de": "Albanische Gastfreundschaft ist in der ganzen Welt berühmt"
+    },
+    {
+      "id": 317,
+      "category": "cultural_nuances",
+      "difficulty": "advanced",
+      "sq": "Besa është virtyt themelor i karakterit shqiptar",
+      "en": "Besa is a fundamental virtue of Albanian character",
+      "de": "Besa ist eine grundlegende Tugend des albanischen Charakters"
+    },
+    {
+      "id": 318,
+      "category": "cultural_nuances",
+      "difficulty": "advanced",
+      "sq": "Kanuni i Lekë Dukagjinit rregullonte jetën shoqërore",
+      "en": "Kanun of Lekë Dukagjini regulated social life",
+      "de": "Das Kanun von Lekë Dukagjini regelte das gesellschaftliche Leben"
+    },
+    {
+      "id": 319,
+      "category": "emotional_complexity",
+      "difficulty": "advanced",
+      "sq": "Ndjeva një përzierje nostalgjie dhe melankoli",
+      "en": "I felt a mixture of nostalgia and melancholy",
+      "de": "Ich fühlte eine Mischung aus Nostalgie und Melancholie"
+    },
+    {
+      "id": 320,
+      "category": "emotional_complexity",
+      "difficulty": "advanced",
+      "sq": "Zemra ime u mbush me një lumturi të palakueshme",
+      "en": "My heart filled with inexplicable happiness",
+      "de": "Mein Herz füllte sich mit unerklärlichem Glück"
+    },
+    {
+      "id": 321,
+      "category": "emotional_complexity",
+      "difficulty": "advanced",
+      "sq": "Ndjerë një dhimbje të thellë që më depërtoi deri në shpirt",
+      "en": "I felt a deep pain that penetrated into my soul",
+      "de": "Ich fühlte einen tiefen Schmerz, der bis in meine Seele eindrang"
+    },
+    {
+      "id": 322,
+      "category": "academic_discourse",
+      "difficulty": "advanced",
+      "sq": "Hipoteza e paraqitur kërkon verifikim empirik",
+      "en": "The presented hypothesis requires empirical verification",
+      "de": "Die vorgestellte Hypothese erfordert empirische Verifikation"
+    },
+    {
+      "id": 323,
+      "category": "academic_discourse",
+      "difficulty": "advanced",
+      "sq": "Metodologjia e përdorur është e përshtatshme për objektivat e studimit",
+      "en": "The methodology used is appropriate for the study objectives",
+      "de": "Die verwendete Methodologie ist für die Studienziele angemessen"
+    },
+    {
+      "id": 324,
+      "category": "academic_discourse",
+      "difficulty": "advanced",
+      "sq": "Gjetjet e kërkimit kontribuojnë në teorinë ekzistuese",
+      "en": "Research findings contribute to existing theory",
+      "de": "Forschungsergebnisse tragen zur bestehenden Theorie bei"
+    },
+    {
+      "id": 325,
+      "category": "professional_jargon",
+      "difficulty": "advanced",
+      "sq": "ROI-ja e projektit të ri është premtuese për tremujorin e ardhshëm",
+      "en": "The ROI of the new project is promising for next quarter",
+      "de": "Der ROI des neuen Projekts ist vielversprechend für das nächste Quartal"
+    },
+    {
+      "id": 326,
+      "category": "professional_jargon",
+      "difficulty": "advanced",
+      "sq": "KPI-të tregojnë një rritje të qëndrueshme në performance",
+      "en": "KPIs show sustainable growth in performance",
+      "de": "KPIs zeigen nachhaltiges Wachstum in der Leistung"
+    },
+    {
+      "id": 327,
+      "category": "professional_jargon",
+      "difficulty": "advanced",
+      "sq": "Due diligence duhet kryer para çdo investimi të madh",
+      "en": "Due diligence must be performed before any major investment",
+      "de": "Due Diligence muss vor jeder größeren Investition durchgeführt werden"
+    },
+    {
+      "id": 328,
+      "category": "temporal_complexity",
+      "difficulty": "advanced",
+      "sq": "Kur të ketë mbaruar të gjitha përgatitjet, do të fillojmë fazen e dytë",
+      "en": "Once all preparations are completed, we will begin the second phase",
+      "de": "Sobald alle Vorbereitungen abgeschlossen sind, beginnen wir mit der zweiten Phase"
+    },
+    {
+      "id": 329,
+      "category": "temporal_complexity",
+      "difficulty": "advanced",
+      "sq": "Ndërkohë që pritnim rezultatet, u zhvilluan ngjarje të reja",
+      "en": "While we were waiting for results, new events unfolded",
+      "de": "Während wir auf Ergebnisse warteten, entwickelten sich neue Ereignisse"
+    },
+    {
+      "id": 330,
+      "category": "temporal_complexity",
+      "difficulty": "advanced",
+      "sq": "Sapo të përfundojë prezantimi, do të hapim diskutimin",
+      "en": "As soon as the presentation ends, we will open the discussion",
+      "de": "Sobald die Präsentation endet, werden wir die Diskussion eröffnen"
+    },
+    {
+      "id": 331,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Tungjatjeta",
+      "en": "Good day (formal)",
+      "de": "Guten Tag (förmlich)"
+    },
+    {
+      "id": 332,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Përshëndetje të gjithëve",
+      "en": "Greetings to everyone",
+      "de": "Grüße an alle"
+    },
+    {
+      "id": 333,
+      "category": "greetings",
+      "difficulty": "intermediate",
+      "sq": "Si kaluat natën?",
+      "en": "How did you spend the night?",
+      "de": "Wie haben Sie die Nacht verbracht?"
+    },
+    {
+      "id": 334,
+      "category": "greetings",
+      "difficulty": "intermediate",
+      "sq": "Shpresoj se jeni mirë",
+      "en": "I hope you are well",
+      "de": "Ich hoffe, es geht Ihnen gut"
+    },
+    {
+      "id": 335,
+      "category": "greetings",
+      "difficulty": "advanced",
+      "sq": "Më vjen mirë që ju takova",
+      "en": "I'm pleased to meet you",
+      "de": "Es freut mich, Sie kennenzulernen"
+    },
+    {
+      "id": 336,
+      "category": "greetings",
+      "difficulty": "advanced",
+      "sq": "Kjo është një nder i madh për mua",
+      "en": "This is a great honor for me",
+      "de": "Das ist eine große Ehre für mich"
+    },
+    {
+      "id": 337,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Çao",
+      "en": "Bye",
+      "de": "Tschüss"
+    },
+    {
+      "id": 338,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Shihemi së shpejti",
+      "en": "See you soon",
+      "de": "Bis bald"
+    },
+    {
+      "id": 339,
+      "category": "greetings",
+      "difficulty": "intermediate",
+      "sq": "Mirë se u kthyet",
+      "en": "Welcome back",
+      "de": "Willkommen zurück"
+    },
+    {
+      "id": 340,
+      "category": "greetings",
+      "difficulty": "intermediate",
+      "sq": "Udhë të mbarë",
+      "en": "Have a good trip",
+      "de": "Gute Reise"
+    },
+    {
+      "id": 341,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Po ashtu",
+      "en": "Likewise",
+      "de": "Ebenfalls"
+    },
+    {
+      "id": 342,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Sigurisht",
+      "en": "Certainly",
+      "de": "Sicherlich"
+    },
+    {
+      "id": 343,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Natyrisht",
+      "en": "Naturally",
+      "de": "Natürlich"
+    },
+    {
+      "id": 344,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "Pa dyshim",
+      "en": "Without doubt",
+      "de": "Ohne Zweifel"
+    },
+    {
+      "id": 345,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "Në rregull",
+      "en": "Alright",
+      "de": "In Ordnung"
+    },
+    {
+      "id": 346,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "Me kënaqësi",
+      "en": "With pleasure",
+      "de": "Mit Vergnügen"
+    },
+    {
+      "id": 347,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Nuk ka gjë",
+      "en": "No problem",
+      "de": "Kein Problem"
+    },
+    {
+      "id": 348,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Çfarëdo që të ndodhë",
+      "en": "Whatever happens",
+      "de": "Was auch immer passiert"
+    },
+    {
+      "id": 349,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Në çdo rast",
+      "en": "In any case",
+      "de": "Auf jeden Fall"
+    },
+    {
+      "id": 350,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Për fat të keq",
+      "en": "Unfortunately",
+      "de": "Leider"
+    },
+    {
+      "id": 351,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "gjashtëdhjetë",
+      "en": "sixty",
+      "de": "sechzig"
+    },
+    {
+      "id": 352,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "shtatëdhjetë",
+      "en": "seventy",
+      "de": "siebzig"
+    },
+    {
+      "id": 353,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "tetëdhjetë",
+      "en": "eighty",
+      "de": "achtzig"
+    },
+    {
+      "id": 354,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "nëntëdhjetë",
+      "en": "ninety",
+      "de": "neunzig"
+    },
+    {
+      "id": 355,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "dy mijë",
+      "en": "two thousand",
+      "de": "zweitausend"
+    },
+    {
+      "id": 356,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "një milion",
+      "en": "one million",
+      "de": "eine Million"
+    },
+    {
+      "id": 357,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "një miliard",
+      "en": "one billion",
+      "de": "eine Milliarde"
+    },
+    {
+      "id": 358,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "zero",
+      "en": "zero",
+      "de": "null"
+    },
+    {
+      "id": 359,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "njëmbëdhjetë",
+      "en": "eleven",
+      "de": "elf"
+    },
+    {
+      "id": 360,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "dymbëdhjetë",
+      "en": "twelve",
+      "de": "zwölf"
+    },
+    {
+      "id": 361,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "tani",
+      "en": "now",
+      "de": "jetzt"
+    },
+    {
+      "id": 362,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "më parë",
+      "en": "earlier",
+      "de": "früher"
+    },
+    {
+      "id": 363,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "më vonë",
+      "en": "later",
+      "de": "später"
+    },
+    {
+      "id": 364,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "javën e kaluar",
+      "en": "last week",
+      "de": "letzte Woche"
+    },
+    {
+      "id": 365,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "javën e ardhshme",
+      "en": "next week",
+      "de": "nächste Woche"
+    },
+    {
+      "id": 366,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "muajin e kaluar",
+      "en": "last month",
+      "de": "letzten Monat"
+    },
+    {
+      "id": 367,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "vitin e kaluar",
+      "en": "last year",
+      "de": "letztes Jahr"
+    },
+    {
+      "id": 368,
+      "category": "time",
+      "difficulty": "advanced",
+      "sq": "Sa është ora tani?",
+      "en": "What time is it now?",
+      "de": "Wie spät ist es jetzt?"
+    },
+    {
+      "id": 369,
+      "category": "time",
+      "difficulty": "advanced",
+      "sq": "Koha po kalon shpejt",
+      "en": "Time is passing quickly",
+      "de": "Die Zeit vergeht schnell"
+    },
+    {
+      "id": 370,
+      "category": "time",
+      "difficulty": "advanced",
+      "sq": "Jam vonë për takimin",
+      "en": "I'm late for the meeting",
+      "de": "Ich bin zu spät für das Treffen"
+    },
+    {
+      "id": 371,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "kripë",
+      "en": "salt",
+      "de": "Salz"
+    },
+    {
+      "id": 372,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "sheqer",
+      "en": "sugar",
+      "de": "Zucker"
+    },
+    {
+      "id": 373,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "vaj",
+      "en": "oil",
+      "de": "Öl"
+    },
+    {
+      "id": 374,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "gjalpë",
+      "en": "butter",
+      "de": "Butter"
+    },
+    {
+      "id": 375,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "sallatë",
+      "en": "salad",
+      "de": "Salat"
+    },
+    {
+      "id": 376,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "supë",
+      "en": "soup",
+      "de": "Suppe"
+    },
+    {
+      "id": 377,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "patate",
+      "en": "potatoes",
+      "de": "Kartoffeln"
+    },
+    {
+      "id": 378,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "oriz",
+      "en": "rice",
+      "de": "Reis"
+    },
+    {
+      "id": 379,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "makarona",
+      "en": "pasta",
+      "de": "Nudeln"
+    },
+    {
+      "id": 380,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "A doni të porositni?",
+      "en": "Would you like to order?",
+      "de": "Möchten Sie bestellen?"
+    },
+    {
+      "id": 381,
+      "category": "travel",
+      "difficulty": "beginner",
+      "sq": "biletë",
+      "en": "ticket",
+      "de": "Ticket"
+    },
+    {
+      "id": 382,
+      "category": "travel",
+      "difficulty": "beginner",
+      "sq": "valixhe",
+      "en": "suitcase",
+      "de": "Koffer"
+    },
+    {
+      "id": 383,
+      "category": "travel",
+      "difficulty": "beginner",
+      "sq": "pasaportë",
+      "en": "passport",
+      "de": "Reisepass"
+    },
+    {
+      "id": 384,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "rezervim",
+      "en": "reservation",
+      "de": "Reservierung"
+    },
+    {
+      "id": 385,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "check-in",
+      "en": "check-in",
+      "de": "Anmeldung"
+    },
+    {
+      "id": 386,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "check-out",
+      "en": "check-out",
+      "de": "Abmeldung"
+    },
+    {
+      "id": 387,
+      "category": "travel",
+      "difficulty": "intermediate",
+      "sq": "udhëtim",
+      "en": "journey",
+      "de": "Reise"
+    },
+    {
+      "id": 388,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "A keni ndonjë dokument identiteti?",
+      "en": "Do you have any identification document?",
+      "de": "Haben Sie einen Ausweis?"
+    },
+    {
+      "id": 389,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Fluturimi im është vonuar",
+      "en": "My flight is delayed",
+      "de": "Mein Flug hat Verspätung"
+    },
+    {
+      "id": 390,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Ku është porta e nisjes?",
+      "en": "Where is the departure gate?",
+      "de": "Wo ist das Abfluggate?"
+    },
+    {
+      "id": 391,
+      "category": "business",
+      "difficulty": "beginner",
+      "sq": "punë",
+      "en": "work",
+      "de": "Arbeit"
+    },
+    {
+      "id": 392,
+      "category": "business",
+      "difficulty": "beginner",
+      "sq": "shitje",
+      "en": "sales",
+      "de": "Verkauf"
+    },
+    {
+      "id": 393,
+      "category": "business",
+      "difficulty": "beginner",
+      "sq": "blerje",
+      "en": "purchase",
+      "de": "Kauf"
+    },
+    {
+      "id": 394,
+      "category": "business",
+      "difficulty": "intermediate",
+      "sq": "projekt",
+      "en": "project",
+      "de": "Projekt"
+    },
+    {
+      "id": 395,
+      "category": "business",
+      "difficulty": "intermediate",
+      "sq": "klient",
+      "en": "client",
+      "de": "Kunde"
+    },
+    {
+      "id": 396,
+      "category": "business",
+      "difficulty": "intermediate",
+      "sq": "furnizues",
+      "en": "supplier",
+      "de": "Lieferant"
+    },
+    {
+      "id": 397,
+      "category": "business",
+      "difficulty": "intermediate",
+      "sq": "partneritet",
+      "en": "partnership",
+      "de": "Partnerschaft"
+    },
+    {
+      "id": 398,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Le të diskutojmë kushtet e kontratës",
+      "en": "Let's discuss the contract terms",
+      "de": "Lassen Sie uns die Vertragsbedingungen besprechen"
+    },
+    {
+      "id": 399,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Kemi arritur një marrëveshje",
+      "en": "We have reached an agreement",
+      "de": "Wir haben eine Vereinbarung erreicht"
+    },
+    {
+      "id": 400,
+      "category": "business",
+      "difficulty": "advanced",
+      "sq": "Duhet të rishikojmë strategjinë tonë",
+      "en": "We need to review our strategy",
+      "de": "Wir müssen unsere Strategie überdenken"
+    },
+    {
+      "id": 401,
+      "category": "education",
+      "difficulty": "beginner",
+      "sq": "nxënës",
+      "en": "student",
+      "de": "Schüler"
+    },
+    {
+      "id": 402,
+      "category": "education",
+      "difficulty": "beginner",
+      "sq": "mësim",
+      "en": "lesson",
+      "de": "Lektion"
+    },
+    {
+      "id": 403,
+      "category": "education",
+      "difficulty": "beginner",
+      "sq": "detyrë",
+      "en": "homework",
+      "de": "Hausaufgabe"
+    },
+    {
+      "id": 404,
+      "category": "education",
+      "difficulty": "beginner",
+      "sq": "notë",
+      "en": "grade",
+      "de": "Note"
+    },
+    {
+      "id": 405,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "diplomë",
+      "en": "diploma",
+      "de": "Diplom"
+    },
+    {
+      "id": 406,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "fakultet",
+      "en": "faculty",
+      "de": "Fakultät"
+    },
+    {
+      "id": 407,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "kurs",
+      "en": "course",
+      "de": "Kurs"
+    },
+    {
+      "id": 408,
+      "category": "education",
+      "difficulty": "intermediate",
+      "sq": "semestër",
+      "en": "semester",
+      "de": "Semester"
+    },
+    {
+      "id": 409,
+      "category": "education",
+      "difficulty": "advanced",
+      "sq": "Po studioj për master",
+      "en": "I'm studying for a master's degree",
+      "de": "Ich studiere für einen Master-Abschluss"
+    },
+    {
+      "id": 410,
+      "category": "education",
+      "difficulty": "advanced",
+      "sq": "Kam mbaruar me sukses studimet",
+      "en": "I have successfully completed my studies",
+      "de": "Ich habe mein Studium erfolgreich abgeschlossen"
+    },
+    {
+      "id": 411,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i gëzuar",
+      "en": "joyful",
+      "de": "freudig"
+    },
+    {
+      "id": 412,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i mërzitur",
+      "en": "upset",
+      "de": "verärgert"
+    },
+    {
+      "id": 413,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i shqetësuar",
+      "en": "worried",
+      "de": "besorgt"
+    },
+    {
+      "id": 414,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i qetë",
+      "en": "calm",
+      "de": "ruhig"
+    },
+    {
+      "id": 415,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i ankthshëm",
+      "en": "anxious",
+      "de": "ängstlich"
+    },
+    {
+      "id": 416,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i hutuar",
+      "en": "confused",
+      "de": "verwirrt"
+    },
+    {
+      "id": 417,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i zhgënjyer",
+      "en": "disappointed",
+      "de": "enttäuscht"
+    },
+    {
+      "id": 418,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i kënaqur",
+      "en": "satisfied",
+      "de": "zufrieden"
+    },
+    {
+      "id": 419,
+      "category": "emotions",
+      "difficulty": "advanced",
+      "sq": "Jam tepër i emocionuar për këtë mundësi",
+      "en": "I'm very excited about this opportunity",
+      "de": "Ich bin sehr aufgeregt über diese Gelegenheit"
+    },
+    {
+      "id": 420,
+      "category": "emotions",
+      "difficulty": "advanced",
+      "sq": "Ndihem i mbushur me energji pozitive",
+      "en": "I feel filled with positive energy",
+      "de": "Ich fühle mich voller positiver Energie"
+    },
+    {
+      "id": 421,
+      "category": "weather",
+      "difficulty": "beginner",
+      "sq": "mjegull",
+      "en": "fog",
+      "de": "Nebel"
+    },
+    {
+      "id": 422,
+      "category": "weather",
+      "difficulty": "beginner",
+      "sq": "stuhi",
+      "en": "storm",
+      "de": "Sturm"
+    },
+    {
+      "id": 423,
+      "category": "weather",
+      "difficulty": "beginner",
+      "sq": "bubullimë",
+      "en": "thunder",
+      "de": "Donner"
+    },
+    {
+      "id": 424,
+      "category": "weather",
+      "difficulty": "beginner",
+      "sq": "rrufë",
+      "en": "lightning",
+      "de": "Blitz"
+    },
+    {
+      "id": 425,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "temperaturë",
+      "en": "temperature",
+      "de": "Temperatur"
+    },
+    {
+      "id": 426,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "lagështirë",
+      "en": "humidity",
+      "de": "Feuchtigkeit"
+    },
+    {
+      "id": 427,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "parashikim moti",
+      "en": "weather forecast",
+      "de": "Wettervorhersage"
+    },
+    {
+      "id": 428,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "reshje shiu",
+      "en": "rainfall",
+      "de": "Niederschlag"
+    },
+    {
+      "id": 429,
+      "category": "weather",
+      "difficulty": "advanced",
+      "sq": "Sot do të ketë reshje të lehta",
+      "en": "Today there will be light precipitation",
+      "de": "Heute wird es leichte Niederschläge geben"
+    },
+    {
+      "id": 430,
+      "category": "weather",
+      "difficulty": "advanced",
+      "sq": "Temperatura do të arrijë deri në 25 gradë",
+      "en": "The temperature will reach up to 25 degrees",
+      "de": "Die Temperatur wird bis zu 25 Grad erreichen"
+    },
+    {
+      "id": 431,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "bashkëshort",
+      "en": "spouse",
+      "de": "Ehepartner"
+    },
+    {
+      "id": 432,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "burri",
+      "en": "husband",
+      "de": "Ehemann"
+    },
+    {
+      "id": 433,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "gruaja",
+      "en": "wife",
+      "de": "Ehefrau"
+    },
+    {
+      "id": 434,
+      "category": "family",
+      "difficulty": "beginner",
+      "sq": "fëmijë",
+      "en": "children",
+      "de": "Kinder"
+    },
+    {
+      "id": 435,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "kunati",
+      "en": "brother-in-law",
+      "de": "Schwager"
+    },
+    {
+      "id": 436,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "kunatë",
+      "en": "sister-in-law",
+      "de": "Schwägerin"
+    },
+    {
+      "id": 437,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "nipi",
+      "en": "nephew",
+      "de": "Neffe"
+    },
+    {
+      "id": 438,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "mbesa",
+      "en": "niece",
+      "de": "Nichte"
+    },
+    {
+      "id": 439,
+      "category": "family",
+      "difficulty": "advanced",
+      "sq": "Familja jonë është shumë e bashkuar",
+      "en": "Our family is very close-knit",
+      "de": "Unsere Familie ist sehr eng verbunden"
+    },
+    {
+      "id": 440,
+      "category": "family",
+      "difficulty": "advanced",
+      "sq": "Organizojmë tubime familjare çdo fundjavë",
+      "en": "We organize family gatherings every weekend",
+      "de": "Wir organisieren jedes Wochenende Familientreffen"
+    },
+    {
+      "id": 441,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "gjoks",
+      "en": "chest",
+      "de": "Brust"
+    },
+    {
+      "id": 442,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "shpinë",
+      "en": "back",
+      "de": "Rücken"
+    },
+    {
+      "id": 443,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "barkë",
+      "en": "belly",
+      "de": "Bauch"
+    },
+    {
+      "id": 444,
+      "category": "body_parts",
+      "difficulty": "beginner",
+      "sq": "gishta",
+      "en": "fingers",
+      "de": "Finger"
+    },
+    {
+      "id": 445,
+      "category": "body_parts",
+      "difficulty": "intermediate",
+      "sq": "bërryl",
+      "en": "elbow",
+      "de": "Ellenbogen"
+    },
+    {
+      "id": 446,
+      "category": "body_parts",
+      "difficulty": "intermediate",
+      "sq": "gju",
+      "en": "knee",
+      "de": "Knie"
+    },
+    {
+      "id": 447,
+      "category": "body_parts",
+      "difficulty": "intermediate",
+      "sq": "kyç dore",
+      "en": "wrist",
+      "de": "Handgelenk"
+    },
+    {
+      "id": 448,
+      "category": "body_parts",
+      "difficulty": "intermediate",
+      "sq": "shpatull",
+      "en": "shoulder",
+      "de": "Schulter"
+    },
+    {
+      "id": 449,
+      "category": "body_parts",
+      "difficulty": "advanced",
+      "sq": "Më dhemb shpatulla e djathtë",
+      "en": "My right shoulder hurts",
+      "de": "Meine rechte Schulter tut weh"
+    },
+    {
+      "id": 450,
+      "category": "body_parts",
+      "difficulty": "advanced",
+      "sq": "Kam problemë me gjurin e majtë",
+      "en": "I have a problem with my left knee",
+      "de": "Ich habe ein Problem mit meinem linken Knie"
+    },
+    {
+      "id": 451,
+      "category": "colors",
+      "difficulty": "intermediate",
+      "sq": "gri",
+      "en": "gray",
+      "de": "grau"
+    },
+    {
+      "id": 452,
+      "category": "colors",
+      "difficulty": "intermediate",
+      "sq": "argjendtë",
+      "en": "silver",
+      "de": "silber"
+    },
+    {
+      "id": 453,
+      "category": "colors",
+      "difficulty": "intermediate",
+      "sq": "të artë",
+      "en": "golden",
+      "de": "golden"
+    },
+    {
+      "id": 454,
+      "category": "colors",
+      "difficulty": "intermediate",
+      "sq": "bezhë",
+      "en": "beige",
+      "de": "beige"
+    },
+    {
+      "id": 455,
+      "category": "colors",
+      "difficulty": "advanced",
+      "sq": "azure",
+      "en": "azure",
+      "de": "azurblau"
+    },
+    {
+      "id": 456,
+      "category": "colors",
+      "difficulty": "advanced",
+      "sq": "turquoise",
+      "en": "turquoise",
+      "de": "türkis"
+    },
+    {
+      "id": 457,
+      "category": "colors",
+      "difficulty": "advanced",
+      "sq": "ngjyra të ndryshme",
+      "en": "different colors",
+      "de": "verschiedene Farben"
+    },
+    {
+      "id": 458,
+      "category": "colors",
+      "difficulty": "advanced",
+      "sq": "kombinim ngjyrash",
+      "en": "color combination",
+      "de": "Farbkombination"
+    },
+    {
+      "id": 459,
+      "category": "colors",
+      "difficulty": "advanced",
+      "sq": "Ky kombinim ngjyrash është shumë i bukur",
+      "en": "This color combination is very beautiful",
+      "de": "Diese Farbkombination ist sehr schön"
+    },
+    {
+      "id": 460,
+      "category": "colors",
+      "difficulty": "advanced",
+      "sq": "Më pëlqejnë ngjyrat e ngrohta",
+      "en": "I like warm colors",
+      "de": "Ich mag warme Farben"
+    },
+    {
+      "id": 461,
+      "category": "animals",
+      "difficulty": "beginner",
+      "sq": "derr",
+      "en": "pig",
+      "de": "Schwein"
+    },
+    {
+      "id": 462,
+      "category": "animals",
+      "difficulty": "beginner",
+      "sq": "miu",
+      "en": "mouse",
+      "de": "Maus"
+    },
+    {
+      "id": 463,
+      "category": "animals",
+      "difficulty": "beginner",
+      "sq": "lepuri",
+      "en": "rabbit",
+      "de": "Kaninchen"
+    },
+    {
+      "id": 464,
+      "category": "animals",
+      "difficulty": "beginner",
+      "sq": "pulë",
+      "en": "chicken",
+      "de": "Huhn"
+    },
+    {
+      "id": 465,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "ari",
+      "en": "bear",
+      "de": "Bär"
+    },
+    {
+      "id": 466,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "ujku",
+      "en": "wolf",
+      "de": "Wolf"
+    },
+    {
+      "id": 467,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "dhelpra",
+      "en": "fox",
+      "de": "Fuchs"
+    },
+    {
+      "id": 468,
+      "category": "animals",
+      "difficulty": "intermediate",
+      "sq": "shqiponja",
+      "en": "eagle",
+      "de": "Adler"
+    },
+    {
+      "id": 469,
+      "category": "animals",
+      "difficulty": "advanced",
+      "sq": "Në kopshtin zoologjik ka shumë kafshë",
+      "en": "There are many animals in the zoo",
+      "de": "Im Zoo gibt es viele Tiere"
+    },
+    {
+      "id": 470,
+      "category": "animals",
+      "difficulty": "advanced",
+      "sq": "Duhet të mbrojmë speciet në zhdukje",
+      "en": "We must protect endangered species",
+      "de": "Wir müssen bedrohte Arten schützen"
+    },
+    {
+      "id": 471,
+      "category": "technology",
+      "difficulty": "beginner",
+      "sq": "rrjet",
+      "en": "network",
+      "de": "Netzwerk"
+    },
+    {
+      "id": 472,
+      "category": "technology",
+      "difficulty": "beginner",
+      "sq": "program",
+      "en": "software",
+      "de": "Software"
+    },
+    {
+      "id": 473,
+      "category": "technology",
+      "difficulty": "beginner",
+      "sq": "fjalëkalim",
+      "en": "password",
+      "de": "Passwort"
+    },
+    {
+      "id": 474,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "aplikacion",
+      "en": "application",
+      "de": "Anwendung"
+    },
+    {
+      "id": 475,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "të dhëna",
+      "en": "data",
+      "de": "Daten"
+    },
+    {
+      "id": 476,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "siguri",
+      "en": "security",
+      "de": "Sicherheit"
+    },
+    {
+      "id": 477,
+      "category": "technology",
+      "difficulty": "intermediate",
+      "sq": "azhurnim",
+      "en": "update",
+      "de": "Update"
+    },
+    {
+      "id": 478,
+      "category": "technology",
+      "difficulty": "advanced",
+      "sq": "Duhet të azhurnojmë sistemin operativ",
+      "en": "We need to update the operating system",
+      "de": "Wir müssen das Betriebssystem aktualisieren"
+    },
+    {
+      "id": 479,
+      "category": "technology",
+      "difficulty": "advanced",
+      "sq": "Sistemi i sigurisë është komprometuar",
+      "en": "The security system is compromised",
+      "de": "Das Sicherheitssystem ist kompromittiert"
+    },
+    {
+      "id": 480,
+      "category": "technology",
+      "difficulty": "advanced",
+      "sq": "Teknologjia po ndryshon botën",
+      "en": "Technology is changing the world",
+      "de": "Technologie verändert die Welt"
+    },
+    {
+      "id": 481,
+      "category": "sports",
+      "difficulty": "beginner",
+      "sq": "lojë",
+      "en": "game",
+      "de": "Spiel"
+    },
+    {
+      "id": 482,
+      "category": "sports",
+      "difficulty": "beginner",
+      "sq": "ekip",
+      "en": "team",
+      "de": "Team"
+    },
+    {
+      "id": 483,
+      "category": "sports",
+      "difficulty": "beginner",
+      "sq": "top",
+      "en": "ball",
+      "de": "Ball"
+    },
+    {
+      "id": 484,
+      "category": "sports",
+      "difficulty": "beginner",
+      "sq": "stadion",
+      "en": "stadium",
+      "de": "Stadion"
+    },
+    {
+      "id": 485,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "kampionat",
+      "en": "championship",
+      "de": "Meisterschaft"
+    },
+    {
+      "id": 486,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "medalje",
+      "en": "medal",
+      "de": "Medaille"
+    },
+    {
+      "id": 487,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "fitnes",
+      "en": "fitness",
+      "de": "Fitness"
+    },
+    {
+      "id": 488,
+      "category": "sports",
+      "difficulty": "intermediate",
+      "sq": "palestër",
+      "en": "gym",
+      "de": "Fitnessstudio"
+    },
+    {
+      "id": 489,
+      "category": "sports",
+      "difficulty": "advanced",
+      "sq": "Stërvitja është thelbësore për performancën",
+      "en": "Training is essential for performance",
+      "de": "Training ist entscheidend für die Leistung"
+    },
+    {
+      "id": 490,
+      "category": "sports",
+      "difficulty": "advanced",
+      "sq": "Olimpiadat mbahen çdo katër vjet",
+      "en": "The Olympics are held every four years",
+      "de": "Die Olympischen Spiele finden alle vier Jahre statt"
+    },
+    {
+      "id": 491,
+      "category": "clothing",
+      "difficulty": "beginner",
+      "sq": "pallto",
+      "en": "coat",
+      "de": "Mantel"
+    },
+    {
+      "id": 492,
+      "category": "clothing",
+      "difficulty": "beginner",
+      "sq": "bluze",
+      "en": "blouse",
+      "de": "Bluse"
+    },
+    {
+      "id": 493,
+      "category": "clothing",
+      "difficulty": "beginner",
+      "sq": "jelek",
+      "en": "vest",
+      "de": "Weste"
+    },
+    {
+      "id": 494,
+      "category": "clothing",
+      "difficulty": "beginner",
+      "sq": "fund",
+      "en": "skirt",
+      "de": "Rock"
+    },
+    {
+      "id": 495,
+      "category": "clothing",
+      "difficulty": "intermediate",
+      "sq": "kostum",
+      "en": "suit",
+      "de": "Anzug"
+    },
+    {
+      "id": 496,
+      "category": "clothing",
+      "difficulty": "intermediate",
+      "sq": "kravat",
+      "en": "tie",
+      "de": "Krawatte"
+    },
+    {
+      "id": 497,
+      "category": "clothing",
+      "difficulty": "intermediate",
+      "sq": "rrip",
+      "en": "belt",
+      "de": "Gürtel"
+    },
+    {
+      "id": 498,
+      "category": "clothing",
+      "difficulty": "intermediate",
+      "sq": "doreza",
+      "en": "gloves",
+      "de": "Handschuhe"
+    },
+    {
+      "id": 499,
+      "category": "clothing",
+      "difficulty": "advanced",
+      "sq": "Ky stil veshje më pëlqen shumë",
+      "en": "I really like this style of clothing",
+      "de": "Dieser Kleidungsstil gefällt mir sehr"
+    },
+    {
+      "id": 500,
+      "category": "clothing",
+      "difficulty": "advanced",
+      "sq": "Moda ndryshon çdo sezon",
+      "en": "Fashion changes every season",
+      "de": "Mode ändert sich jede Saison"
+    },
+    {
+      "id": 501,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Mirë se vini në Shqipëri",
+      "en": "Welcome to Albania",
+      "de": "Willkommen in Albanien"
+    },
+    {
+      "id": 502,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Përshëndetje, si jeni?",
+      "en": "Hello, how are you?",
+      "de": "Hallo, wie geht es Ihnen?"
+    },
+    {
+      "id": 503,
+      "category": "greetings",
+      "difficulty": "intermediate",
+      "sq": "Si ishte udhëtimi juaj?",
+      "en": "How was your trip?",
+      "de": "Wie war Ihre Reise?"
+    },
+    {
+      "id": 504,
+      "category": "greetings",
+      "difficulty": "intermediate",
+      "sq": "Shpresoj që keni pasur një ditë të mbarë",
+      "en": "I hope you had a good day",
+      "de": "Ich hoffe, Sie hatten einen guten Tag"
+    },
+    {
+      "id": 505,
+      "category": "greetings",
+      "difficulty": "advanced",
+      "sq": "Më vjen mirë që jeni këtu",
+      "en": "I'm glad you are here",
+      "de": "Ich freue mich, dass Sie hier sind"
+    },
+    {
+      "id": 506,
+      "category": "greetings",
+      "difficulty": "advanced",
+      "sq": "Kjo është një kënaqësi për mua",
+      "en": "This is a pleasure for me",
+      "de": "Das ist eine Freude für mich"
+    },
+    {
+      "id": 507,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Faleminderit për ndihmën tuaj",
+      "en": "Thank you for your help",
+      "de": "Danke für Ihre Hilfe"
+    },
+    {
+      "id": 508,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Më falni për vonesën",
+      "en": "Excuse me for the delay",
+      "de": "Entschuldigen Sie die Verspätung"
+    },
+    {
+      "id": 509,
+      "category": "common_phrases",
+      "difficulty": "beginner",
+      "sq": "Nuk ka problem",
+      "en": "No problem",
+      "de": "Kein Problem"
+    },
+    {
+      "id": 510,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "A mund të flasim më vonë?",
+      "en": "Can we talk later?",
+      "de": "Können wir später reden?"
+    },
+    {
+      "id": 511,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "Më trego më shumë rreth kësaj",
+      "en": "Tell me more about this",
+      "de": "Erzählen Sie mir mehr darüber"
+    },
+    {
+      "id": 512,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "E kuptoj tani",
+      "en": "I understand now",
+      "de": "Ich verstehe jetzt"
+    },
+    {
+      "id": 513,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Nuk e di si të falenderoj",
+      "en": "I don't know how to thank you",
+      "de": "Ich weiß nicht, wie ich Ihnen danken soll"
+    },
+    {
+      "id": 514,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Kjo është jashtëzakonisht e rëndësishme",
+      "en": "This is extremely important",
+      "de": "Das ist äußerst wichtig"
+    },
+    {
+      "id": 515,
+      "category": "common_phrases",
+      "difficulty": "advanced",
+      "sq": "Më vjen keq për shqetësimin",
+      "en": "I'm sorry for the inconvenience",
+      "de": "Es tut mir leid für die Unannehmlichkeiten"
+    },
+    {
+      "id": 516,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "njëzet e një",
+      "en": "twenty-one",
+      "de": "einundzwanzig"
+    },
+    {
+      "id": 517,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "tridhjetë e një",
+      "en": "thirty-one",
+      "de": "einunddreißig"
+    },
+    {
+      "id": 518,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "dyzet e një",
+      "en": "forty-one",
+      "de": "einundvierzig"
+    },
+    {
+      "id": 519,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "pesëdhjetë e një",
+      "en": "fifty-one",
+      "de": "einundfünfzig"
+    },
+    {
+      "id": 520,
+      "category": "numbers",
+      "difficulty": "beginner",
+      "sq": "njëqind e një",
+      "en": "one hundred and one",
+      "de": "einhundertundeins"
+    },
+    {
+      "id": 521,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "njëzet e dy",
+      "en": "twenty-two",
+      "de": "zweiundzwanzig"
+    },
+    {
+      "id": 522,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "tridhjetë e dy",
+      "en": "thirty-two",
+      "de": "zweiunddreißig"
+    },
+    {
+      "id": 523,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "dyzet e dy",
+      "en": "forty-two",
+      "de": "zweiundvierzig"
+    },
+    {
+      "id": 524,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "pesëdhjetë e dy",
+      "en": "fifty-two",
+      "de": "zweiundfünfzig"
+    },
+    {
+      "id": 525,
+      "category": "numbers",
+      "difficulty": "intermediate",
+      "sq": "njëqind e dy",
+      "en": "one hundred and two",
+      "de": "einhundertundzwei"
+    },
+    {
+      "id": 526,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "njëzet e tre",
+      "en": "twenty-three",
+      "de": "dreiundzwanzig"
+    },
+    {
+      "id": 527,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "tridhjetë e tre",
+      "en": "thirty-three",
+      "de": "dreiunddreißig"
+    },
+    {
+      "id": 528,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "dyzet e tre",
+      "en": "forty-three",
+      "de": "dreiundvierzig"
+    },
+    {
+      "id": 529,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "pesëdhjetë e tre",
+      "en": "fifty-three",
+      "de": "dreiundfünfzig"
+    },
+    {
+      "id": 530,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "njëqind e tre",
+      "en": "one hundred and three",
+      "de": "einhundertunddrei"
+    },
+    {
+      "id": 531,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "çdo mëngjes",
+      "en": "every morning",
+      "de": "jeden Morgen"
+    },
+    {
+      "id": 532,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "çdo pasdite",
+      "en": "every afternoon",
+      "de": "jeden Nachmittag"
+    },
+    {
+      "id": 533,
+      "category": "time",
+      "difficulty": "beginner",
+      "sq": "çdo natë",
+      "en": "every night",
+      "de": "jede Nacht"
+    },
+    {
+      "id": 534,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "në mëngjes",
+      "en": "in the morning",
+      "de": "am Morgen"
+    },
+    {
+      "id": 535,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "në pasdite",
+      "en": "in the afternoon",
+      "de": "am Nachmittag"
+    },
+    {
+      "id": 536,
+      "category": "time",
+      "difficulty": "intermediate",
+      "sq": "në natë",
+      "en": "at night",
+      "de": "in der Nacht"
+    },
+    {
+      "id": 537,
+      "category": "time",
+      "difficulty": "advanced",
+      "sq": "Çfarë ore është në Tiranë tani?",
+      "en": "What time is it in Tirana now?",
+      "de": "Wie spät ist es jetzt in Tirana?"
+    },
+    {
+      "id": 538,
+      "category": "time",
+      "difficulty": "advanced",
+      "sq": "Sa kohë ka kaluar që nga ajo ditë?",
+      "en": "How long has it been since that day?",
+      "de": "Wie lange ist es her, dass Tag war?"
+    },
+    {
+      "id": 539,
+      "category": "time",
+      "difficulty": "advanced",
+      "sq": "A mund të më thuash orën saktësisht?",
+      "en": "Can you tell me the exact time?",
+      "de": "Können Sie mir die genaue Uhrzeit sagen?"
+    },
+    {
+      "id": 540,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "mish i grirë",
+      "en": "minced meat",
+      "de": "Hackfleisch"
+    },
+    {
+      "id": 541,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "peshk i grirë",
+      "en": "minced fish",
+      "de": "Hackfisch"
+    },
+    {
+      "id": 542,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "perime të grira",
+      "en": "chopped vegetables",
+      "de": "gehacktes Gemüse"
+    },
+    {
+      "id": 543,
+      "category": "food",
+      "difficulty": "beginner",
+      "sq": "fruta të grira",
+      "en": "chopped fruits",
+      "de": "gehacktes Obst"
+    },
+    {
+      "id": 544,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "mish i pjekur",
+      "en": "roast meat",
+      "de": "Bratenfleisch"
+    },
+    {
+      "id": 545,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "peshk i pjekur",
+      "en": "roast fish",
+      "de": "Bratenfisch"
+    },
+    {
+      "id": 546,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "perime të pjekura",
+      "en": "roasted vegetables",
+      "de": "geröstetes Gemüse"
+    },
+    {
+      "id": 547,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "fruta të pjekura",
+      "en": "roasted fruits",
+      "de": "geröstetes Obst"
+    },
+    {
+      "id": 548,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "Kam një alergji ndaj disa ushqimeve",
+      "en": "I have an allergy to some foods"
+    },
+    {
+      "id": 549,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "Më pëlqen të provoj ushqime të reja",
+      "en": "I like to try new foods",
+      "de": "Ich probiere gerne neue Lebensmittel"
+    },
+    {
+      "id": 550,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "Ushqimi tradicional shqiptar është shumë i shijshëm",
+      "en": "Albanian traditional food is very tasty",
+      "de": "Albanisches traditionelles Essen ist sehr lecker"
+    },
+    {
+      "id": 551,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "Më pëlqen të gatuaj ushqime të ndryshme",
+      "en": "I like to cook different foods",
+      "de": "Ich koche gerne verschiedene Lebensmittel"
+    },
+    {
+      "id": 552,
+      "category": "food",
+      "difficulty": "advanced",
+      "sq": "Ushqimi i shpejtë nuk është i shëndetshëm",
+      "en": "Fast food is not healthy",
+      "de": "Fast Food ist nicht gesund"
+    },
+    {
+      "id": 553,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i lumtur",
+      "en": "happy",
+      "de": "glücklich"
+    },
+    {
+      "id": 554,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i trishtuar",
+      "en": "sad",
+      "de": "traurig"
+    },
+    {
+      "id": 555,
+      "category": "emotions",
+      "difficulty": "beginner",
+      "sq": "i zemëruar",
+      "en": "angry",
+      "de": "wütend"
+    },
+    {
+      "id": 556,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i shqetësuar",
+      "en": "worried",
+      "de": "besorgt"
+    },
+    {
+      "id": 557,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i habitur",
+      "en": "surprised",
+      "de": "überrascht"
+    },
+    {
+      "id": 558,
+      "category": "emotions",
+      "difficulty": "intermediate",
+      "sq": "i frikësuar",
+      "en": "scared",
+      "de": "ängstlich"
+    },
+    {
+      "id": 559,
+      "category": "gastronomy",
+      "difficulty": "advanced",
+      "sq": "Kuzhina mesdhetare është e njohur për përbërësit e saj të freskët.",
+      "en": "Mediterranean cuisine is known for its fresh ingredients.",
+      "de": "Die mediterrane Küche ist bekannt für ihre frischen Zutaten."
+    },
+    {
+      "id": 560,
+      "category": "social_media",
+      "difficulty": "intermediate",
+      "sq": "Sa ndjekës ke në Instagram?",
+      "en": "How many followers do you have on Instagram?",
+      "de": "Wie viele Follower hast du auf Instagram?"
+    },
+    {
+      "id": 561,
+      "category": "artificial_intelligence",
+      "difficulty": "advanced",
+      "sq": "Rrjetet neurale janë një komponent kyç i mësimit të thellë.",
+      "en": "Neural networks are a key component of deep learning.",
+      "de": "Neuronale Netze sind eine Schlüsselkomponente des Deep Learning."
+    },
+    {
+      "id": 562,
+      "category": "cybersecurity",
+      "difficulty": "advanced",
+      "sq": "Mbrojtja kundër sulmeve kibernetike është thelbësore për bizneset.",
+      "en": "Protection against cyber attacks is essential for businesses.",
+      "de": "Der Schutz vor Cyberangriffen ist für Unternehmen unerlässlich."
+    },
+    {
+      "id": 563,
+      "category": "renewable_energy",
+      "difficulty": "intermediate",
+      "sq": "Energjia diellore është një burim i pastër energjie.",
+      "en": "Solar energy is a clean energy source.",
+      "de": "Solarenergie ist eine saubere Energiequelle."
+    },
+    {
+      "id": 564,
+      "category": "urban_planning",
+      "difficulty": "advanced",
+      "sq": "Planifikimi urban i qëndrueshëm synon përmirësimin e cilësisë së jetës.",
+      "en": "Sustainable urban planning aims to improve quality of life.",
+      "de": "Nachhaltige Stadtplanung zielt darauf ab, die Lebensqualität zu verbessern."
+    },
+    {
+      "id": 565,
+      "category": "marine_biology",
+      "difficulty": "intermediate",
+      "sq": "Balenat janë gjitarë detarë mbresëlënës.",
+      "en": "Whales are impressive marine mammals.",
+      "de": "Wale sind beeindruckende Meeressäugetiere."
+    },
+    {
+      "id": 566,
+      "category": "space_exploration",
+      "difficulty": "advanced",
+      "sq": "Misioni në Mars kërkon teknologji të avancuar.",
+      "en": "The mission to Mars requires advanced technology.",
+      "de": "Die Mission zum Mars erfordert fortschrittliche Technologie."
+    },
+    {
+      "id": 567,
+      "category": "quantum_physics",
+      "difficulty": "advanced",
+      "sq": "Mbivendosja kuantike është një koncept themelor.",
+      "en": "Quantum superposition is a fundamental concept.",
+      "de": "Quantenüberlagerung ist ein grundlegendes Konzept."
+    },
+    {
+      "id": 568,
+      "category": "ethics",
+      "difficulty": "intermediate",
+      "sq": "Cilat janë parimet tuaja etike?",
+      "en": "What are your ethical principles?",
+      "de": "Was sind Ihre ethischen Grundsätze?"
+    },
+    {
+      "id": 569,
+      "category": "gastronomy",
+      "difficulty": "intermediate",
+      "sq": "Cila është pjata jote e preferuar tradicionale?",
+      "en": "What is your favorite traditional dish?",
+      "de": "Was ist dein traditionelles Lieblingsgericht?"
+    },
+    {
+      "id": 570,
+      "category": "social_media",
+      "difficulty": "advanced",
+      "sq": "Ndikimi i mediave sociale në shoqëri është i diskutueshëm.",
+      "en": "The impact of social media on society is debatable.",
+      "de": "Der Einfluss von Social Media auf die Gesellschaft ist umstritten."
+    },
+    {
+      "id": 571,
+      "category": "artificial_intelligence",
+      "difficulty": "intermediate",
+      "sq": "Asistentët virtualë po bëhen gjithnjë e më të zakonshëm.",
+      "en": "Virtual assistants are becoming increasingly common.",
+      "de": "Virtuelle Assistenten werden immer häufiger."
+    },
+    {
+      "id": 572,
+      "category": "cybersecurity",
+      "difficulty": "intermediate",
+      "sq": "Përdorni fjalëkalime të forta për të mbrojtur llogaritë tuaja.",
+      "en": "Use strong passwords to protect your accounts.",
+      "de": "Verwenden Sie starke Passwörter, um Ihre Konten zu schützen."
+    },
+    {
+      "id": 573,
+      "category": "renewable_energy",
+      "difficulty": "advanced",
+      "sq": "Tranzicioni drejt energjisë së rinovueshme është një sfidë globale.",
+      "en": "The transition to renewable energy is a global challenge.",
+      "de": "Der Übergang zu erneuerbaren Energien ist eine globale Herausforderung."
+    },
+    {
+      "id": 574,
+      "category": "urban_planning",
+      "difficulty": "intermediate",
+      "sq": "Hapësirat e gjelbra janë të rëndësishme për qytetet.",
+      "en": "Green spaces are important for cities.",
+      "de": "Grünflächen sind wichtig für Städte."
+    },
+    {
+      "id": 575,
+      "category": "marine_biology",
+      "difficulty": "advanced",
+      "sq": "Shkëmbinjtë koralorë janë ekosisteme jetike nënujore.",
+      "en": "Coral reefs are vital underwater ecosystems.",
+      "de": "Korallenriffe sind lebenswichtige Unterwasserökosysteme."
+    },
+    {
+      "id": 576,
+      "category": "space_exploration",
+      "difficulty": "intermediate",
+      "sq": "Astronautët kryejnë eksperimente në Stacionin Ndërkombëtar të Hapësirës.",
+      "en": "Astronauts conduct experiments on the International Space Station.",
+      "de": "Astronauten führen Experimente auf der Internationalen Raumstation durch."
+    },
+    {
+      "id": 577,
+      "category": "quantum_physics",
+      "difficulty": "expert",
+      "sq": "Ndërlidhja kuantike lejon grimcat të ndikojnë njëra-tjetrën në distancë.",
+      "en": "Quantum entanglement allows particles to influence each other at a distance.",
+      "de": "Quantenverschränkung ermöglicht es Teilchen, sich über Distanz gegenseitig zu beeinflussen."
+    },
+    {
+      "id": 578,
+      "category": "ethics",
+      "difficulty": "advanced",
+      "sq": "Dilemat etike shpesh nuk kanë zgjidhje të lehta.",
+      "en": "Ethical dilemmas often have no easy solutions.",
+      "de": "Ethische Dilemmata haben oft keine einfachen Lösungen."
+    },
+    {
+      "id": 579,
+      "category": "gastronomy",
+      "difficulty": "beginner",
+      "sq": "Më pëlqen pica.",
+      "en": "I like pizza.",
+      "de": "Ich mag Pizza."
+    },
+    {
+      "id": 580,
+      "category": "social_media",
+      "difficulty": "beginner",
+      "sq": "Posto një foto.",
+      "en": "Post a photo.",
+      "de": "Poste ein Foto."
+    },
+    {
+      "id": 581,
+      "category": "artificial_intelligence",
+      "difficulty": "beginner",
+      "sq": "Robotët janë të dobishëm.",
+      "en": "Robots are useful.",
+      "de": "Roboter sind nützlich."
+    },
+    {
+      "id": 582,
+      "category": "cybersecurity",
+      "difficulty": "beginner",
+      "sq": "Kujdes nga viruset.",
+      "en": "Beware of viruses.",
+      "de": "Vorsicht vor Viren."
+    },
+    {
+      "id": 583,
+      "category": "renewable_energy",
+      "difficulty": "beginner",
+      "sq": "Dielli jep energji.",
+      "en": "The sun gives energy.",
+      "de": "Die Sonne gibt Energie."
+    },
+    {
+      "id": 584,
+      "category": "urban_planning",
+      "difficulty": "beginner",
+      "sq": "Qyteti ka shumë rrugë.",
+      "en": "The city has many streets.",
+      "de": "Die Stadt hat viele Straßen."
+    },
+    {
+      "id": 585,
+      "category": "marine_biology",
+      "difficulty": "beginner",
+      "sq": "Peshqit jetojnë në ujë.",
+      "en": "Fish live in water.",
+      "de": "Fische leben im Wasser."
+    },
+    {
+      "id": 586,
+      "category": "space_exploration",
+      "difficulty": "beginner",
+      "sq": "Hëna është satelit.",
+      "en": "The moon is a satellite.",
+      "de": "Der Mond ist ein Satellit."
+    },
+    {
+      "id": 587,
+      "category": "quantum_physics",
+      "difficulty": "intermediate",
+      "sq": "Atomet përbëhen nga grimca subatomike.",
+      "en": "Atoms are made of subatomic particles.",
+      "de": "Atome bestehen aus subatomaren Teilchen."
+    },
+    {
+      "id": 588,
+      "category": "ethics",
+      "difficulty": "beginner",
+      "sq": "Të thuash të vërtetën është mirë.",
+      "en": "Telling the truth is good.",
+      "de": "Die Wahrheit zu sagen ist gut."
+    },
+    {
+      "id": 589,
+      "category": "cultural_nuances",
+      "difficulty": "advanced",
+      "sq": "Në kulturën gjermane, pikualiteti vlerësohet shumë.",
+      "en": "In German culture, punctuality is highly valued.",
+      "de": "In der deutschen Kultur wird Pünktlichkeit sehr geschätzt."
+    },
+    {
+      "id": 590,
+      "category": "emotional_complexity",
+      "difficulty": "advanced",
+      "sq": "Ajo ndjeu një ndjenjë ambivalente ndaj propozimit.",
+      "en": "She felt an ambivalent feeling towards the proposal.",
+      "de": "Sie empfand ein ambivalentes Gefühl gegenüber dem Vorschlag."
+    },
+    {
+      "id": 591,
+      "category": "academic_discourse",
+      "difficulty": "expert",
+      "sq": "Studimi longitudinal zbuloi korrelacione domethënëse.",
+      "en": "The longitudinal study revealed significant correlations.",
+      "de": "Die Längsschnittstudie ergab signifikante Korrelationen."
+    },
+    {
+      "id": 592,
+      "category": "professional_jargon",
+      "difficulty": "intermediate",
+      "sq": "Ne duhet të arrijmë KPI-të tona këtë tremujor.",
+      "en": "We need to achieve our KPIs this quarter.",
+      "de": "Wir müssen unsere KPIs in diesem Quartal erreichen."
+    },
+    {
+      "id": 593,
+      "category": "temporal_complexity",
+      "difficulty": "intermediate",
+      "sq": "Pasi të mbaroj këtë, do të filloj detyrën tjetër.",
+      "en": "After I finish this, I will start the next task.",
+      "de": "Nachdem ich das beendet habe, werde ich mit der nächsten Aufgabe beginnen."
+    },
+    {
+      "id": 594,
+      "category": "gastronomy",
+      "difficulty": "advanced",
+      "sq": "Somelieri rekomandoi një verë të kuqe të fortë për mishin.",
+      "en": "The sommelier recommended a full-bodied red wine for the meat.",
+      "de": "Der Sommelier empfahl einen vollmundigen Rotwein zum Fleisch."
+    },
+    {
+      "id": 595,
+      "category": "social_media",
+      "difficulty": "intermediate",
+      "sq": "Cili është rrjeti yt social i preferuar?",
+      "en": "What is your favorite social network?",
+      "de": "Was ist dein bevorzugtes soziales Netzwerk?"
+    },
+    {
+      "id": 596,
+      "category": "artificial_intelligence",
+      "difficulty": "advanced",
+      "sq": "Përpunimi i gjuhës natyrore (NLP) është një fushë e IA.",
+      "en": "Natural Language Processing (NLP) is a field of AI.",
+      "de": "Verarbeitung natürlicher Sprache (NLP) ist ein Bereich der KI."
+    },
+    {
+      "id": 597,
+      "category": "cybersecurity",
+      "difficulty": "advanced",
+      "sq": "Phishing-u është një metodë e zakonshme për vjedhjen e të dhënave.",
+      "en": "Phishing is a common method for data theft.",
+      "de": "Phishing ist eine gängige Methode zum Datendiebstahl."
+    },
+    {
+      "id": 598,
+      "category": "renewable_energy",
+      "difficulty": "intermediate",
+      "sq": "Turbinat e erës prodhojnë energji elektrike.",
+      "en": "Wind turbines generate electricity.",
+      "de": "Windturbinen erzeugen Strom."
+    },
+    {
+      "id": 599,
+      "category": "urban_planning",
+      "difficulty": "advanced",
+      "sq": "Transporti publik efikas është kyç për një qytet të qëndrueshëm.",
+      "en": "Efficient public transport is key to a sustainable city.",
+      "de": "Effizienter öffentlicher Verkehr ist entscheidend für eine nachhaltige Stadt."
+    },
+    {
+      "id": 600,
+      "category": "marine_biology",
+      "difficulty": "intermediate",
+      "sq": "Delfinët janë kafshë shumë inteligjente.",
+      "en": "Dolphins are very intelligent animals.",
+      "de": "Delfine sind sehr intelligente Tiere."
+    },
+    {
+      "id": 601,
+      "category": "greetings",
+      "difficulty": "beginner",
+      "sq": "Si po shkon dita?",
+      "en": "How is your day going?",
+      "de": "Wie läuft dein Tag?"
+    },
+    {
+      "id": 602,
+      "category": "common_phrases",
+      "difficulty": "intermediate",
+      "sq": "Mund të ma përsërisësh, të lutem?",
+      "en": "Can you repeat that, please?",
+      "de": "Kannst du das bitte wiederholen?"
+    },
+    {
+      "id": 603,
+      "category": "numbers",
+      "difficulty": "advanced",
+      "sq": "Një e katërta.",
+      "en": "One fourth.",
+      "de": "Ein Viertel."
+    },
+    {
+      "id": 604,
+      "category": "time",
+      "difficulty": "advanced",
+      "sq": "Në çastin e fundit.",
+      "en": "At the last moment.",
+      "de": "Im letzten Moment."
+    },
+    {
+      "id": 605,
+      "category": "food",
+      "difficulty": "intermediate",
+      "sq": "Do të doja një kafe pa sheqer.",
+      "en": "I would like a coffee without sugar.",
+      "de": "Ich hätte gerne einen Kaffee ohne Zucker."
+    },
+    {
+      "id": 606,
+      "category": "travel",
+      "difficulty": "advanced",
+      "sq": "Cila është mënyra më e mirë për të shkuar në qendër të qytetit?",
+      "en": "What is the best way to get to the city center?",
+      "de": "Was ist der beste Weg, um ins Stadtzentrum zu gelangen?"
+    },
+    {
+      "id": 607,
+      "category": "business",
+      "difficulty": "expert",
+      "sq": "Analiza e leverazhit financiar tregon një rrezik të moderuar.",
+      "en": "The financial leverage analysis indicates moderate risk.",
+      "de": "Die Analyse des finanziellen Hebeleffekts weist auf ein moderates Risiko hin."
+    },
+    {
+      "id": 608,
+      "category": "education",
+      "difficulty": "advanced",
+      "sq": "Teza e doktoraturës fokusohet në neuroshkencën kognitive.",
+      "en": "The doctoral thesis focuses on cognitive neuroscience.",
+      "de": "Die Doktorarbeit konzentriert sich auf kognitive Neurowissenschaften."
+    },
+    {
+      "id": 609,
+      "category": "emotions",
+      "difficulty": "advanced",
+      "sq": "Ajo ndjeu një ndjenjë të thellë mirënjohjeje.",
+      "en": "She felt a deep sense of gratitude.",
+      "de": "Sie empfand ein tiefes Gefühl der Dankbarkeit."
+    },
+    {
+      "id": 610,
+      "category": "weather",
+      "difficulty": "intermediate",
+      "sq": "Parashikohet një rënie e lehtë e temperaturave.",
+      "en": "A slight drop in temperatures is predicted.",
+      "de": "Ein leichter Temperaturrückgang wird vorhergesagt."
+    },
+    {
+      "id": 611,
+      "category": "family",
+      "difficulty": "intermediate",
+      "sq": "Stërgjyshërit e mi erdhën nga një fshat i vogël.",
+      "en": "My great-grandparents came from a small village.",
+      "de": "Meine Urgroßeltern kamen aus einem kleinen Dorf."
+    },
+    {
+      "id": 612,
+      "category": "technology",
+      "difficulty": "expert",
+      "sq": "Kompjuterika kuantike premton të revolucionarizojë fusha të caktuara.",
+      "en": "Quantum computing promises to revolutionize certain fields.",
+      "de": "Quantencomputing verspricht, bestimmte Bereiche zu revolutionieren."
+    },
+    {
+      "id": 613,
+      "category": "sports",
+      "difficulty": "advanced",
+      "sq": "Lojtari u ndëshkua për një faull taktik.",
+      "en": "The player was penalized for a tactical foul.",
+      "de": "Der Spieler wurde für ein taktisches Foul bestraft."
+    },
+    {
+      "id": 614,
+      "category": "healthcare",
+      "difficulty": "expert",
+      "sq": "Diagnoza diferenciale është thelbësore në raste komplekse.",
+      "en": "Differential diagnosis is crucial in complex cases.",
+      "de": "Die Differentialdiagnose ist in komplexen Fällen entscheidend."
+    },
+    {
+      "id": 615,
+      "category": "environment",
+      "difficulty": "advanced",
+      "sq": "Reduktimi i gjurmës së karbonit është një prioritet global.",
+      "en": "Reducing the carbon footprint is a global priority.",
+      "de": "Die Reduzierung des CO2-Fußabdrucks ist eine globale Priorität."
+    },
+    {
+      "id": 616,
+      "category": "psychology",
+      "difficulty": "expert",
+      "sq": "Disonanca kognitive mund të çojë në ndryshime të qëndrimeve.",
+      "en": "Cognitive dissonance can lead to changes in attitudes.",
+      "de": "Kognitive Dissonanz kann zu Einstellungsänderungen führen."
+    },
+    {
+      "id": 617,
+      "category": "economics",
+      "difficulty": "expert",
+      "sq": "Politika monetare e bankës qendrore synon stabilitetin e çmimeve.",
+      "en": "The central bank's monetary policy aims for price stability.",
+      "de": "Die Geldpolitik der Zentralbank zielt auf Preisstabilität ab."
+    },
+    {
+      "id": 618,
+      "category": "philosophy",
+      "difficulty": "expert",
+      "sq": "Imperativi kategorik i Kantit është një parim themelor etik.",
+      "en": "Kant's categorical imperative is a fundamental ethical principle.",
+      "de": "Kants kategorischer Imperativ ist ein grundlegendes ethisches Prinzip."
+    },
+    {
+      "id": 619,
+      "category": "history",
+      "difficulty": "advanced",
+      "sq": "Rënia e Murit të Berlinit shënoi fundin e Luftës së Ftohtë.",
+      "en": "The fall of the Berlin Wall marked the end of the Cold War.",
+      "de": "Der Fall der Berliner Mauer markierte das Ende des Kalten Krieges."
+    },
+    {
+      "id": 620,
+      "category": "mathematics",
+      "difficulty": "expert",
+      "sq": "Transformimi Furier përdoret gjerësisht në përpunimin e sinjaleve.",
+      "en": "The Fourier transform is widely used in signal processing.",
+      "de": "Die Fourier-Transformation wird häufig in der Signalverarbeitung verwendet."
+    },
+    {
+      "id": 621,
+      "category": "gastronomy",
+      "difficulty": "expert",
+      "sq": "Teknika e gatimit sous-vide siguron një temperaturë të njëtrajtshme.",
+      "en": "The sous-vide cooking technique ensures uniform temperature.",
+      "de": "Die Sous-Vide-Gartechnik gewährleistet eine gleichmäßige Temperatur."
+    },
+    {
+      "id": 622,
+      "category": "social_media",
+      "difficulty": "advanced",
+      "sq": "Algoritmet e mediave sociale personalizojnë përmbajtjen për përdoruesit.",
+      "en": "Social media algorithms personalize content for users.",
+      "de": "Social-Media-Algorithmen personalisieren Inhalte für Benutzer."
+    },
+    {
+      "id": 623,
+      "category": "artificial_intelligence",
+      "difficulty": "expert",
+      "sq": "Modelet e mëdha gjuhësore (LLM) po transformojnë ndërveprimin njeri-kompjuter.",
+      "en": "Large Language Models (LLMs) are transforming human-computer interaction.",
+      "de": "Große Sprachmodelle (LLMs) transformieren die Mensch-Computer-Interaktion."
+    },
+    {
+      "id": 624,
+      "category": "cybersecurity",
+      "difficulty": "expert",
+      "sq": "Sulmet e tipit 'zero-day' shfrytëzojnë dobësi të panjohura më parë.",
+      "en": "Zero-day attacks exploit previously unknown vulnerabilities.",
+      "de": "Zero-Day-Angriffe nutzen zuvor unbekannte Schwachstellen aus."
+    },
+    {
+      "id": 625,
+      "category": "renewable_energy",
+      "difficulty": "advanced",
+      "sq": "Energjia gjeotermale është një burim i qëndrueshëm dhe i besueshëm.",
+      "en": "Geothermal energy is a sustainable and reliable source.",
+      "de": "Geothermie ist eine nachhaltige und zuverlässige Energiequelle."
+    },
+    {
+      "id": 626,
+      "category": "urban_planning",
+      "difficulty": "expert",
+      "sq": "Zhvillimi i orientuar drejt transitit (TOD) promovon përdorimin e transportit publik.",
+      "en": "Transit-Oriented Development (TOD) promotes public transport use.",
+      "de": "Nahverkehrsorientierte Entwicklung (TOD) fördert die Nutzung öffentlicher Verkehrsmittel."
+    },
+    {
+      "id": 627,
+      "category": "marine_biology",
+      "difficulty": "advanced",
+      "sq": "Acidifikimi i oqeaneve kërcënon ekosistemet detare.",
+      "en": "Ocean acidification threatens marine ecosystems.",
+      "de": "Die Versauerung der Ozeane bedroht marine Ökosysteme."
+    },
+    {
+      "id": 628,
+      "category": "space_exploration",
+      "difficulty": "expert",
+      "sq": "Teleskopi Hapësinor James Webb po zbulon sekrete të universit të hershëm.",
+      "en": "The James Webb Space Telescope is uncovering secrets of the early universe.",
+      "de": "Das James-Webb-Weltraumteleskop enthüllt Geheimnisse des frühen Universums."
+    },
+    {
+      "id": 629,
+      "category": "quantum_physics",
+      "difficulty": "expert",
+      "sq": "Kompjuterët kuantikë mund të thyejnë algoritmet aktuale të enkriptimit.",
+      "en": "Quantum computers could break current encryption algorithms.",
+      "de": "Quantencomputer könnten aktuelle Verschlüsselungsalgorithmen brechen."
+    },
+    {
+      "id": 630,
+      "category": "ethics",
+      "difficulty": "expert",
+      "sq": "Etika e inteligjencës artificiale është një fushë në zhvillim të shpejtë.",
+      "en": "The ethics of artificial intelligence is a rapidly developing field.",
+      "de": "Die Ethik der künstlichen Intelligenz ist ein sich schnell entwickelndes Feld."
     }
   ]
 }

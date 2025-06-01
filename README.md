@@ -1,23 +1,25 @@
 # 🌍 Albanian-English-German Translation Dataset
 
-A comprehensive multilingual translation dataset containing 500+ translation pairs across Albanian, English, and German languages, specifically designed for LLM fine-tuning and multilingual AI research.
+A comprehensive multilingual translation dataset containing 630+ translation pairs across Albanian, English, and German languages, specifically designed for LLM fine-tuning and multilingual AI research.
 
 ## 📊 Dataset Overview
 
 - **Languages**: Albanian (sq), English (en), German (de)
-- **Total Entries**: 500+ translation triplets
-- **Categories**: 20+ semantic categories including greetings, business, travel, education, healthcare, and more
-- **Difficulty Levels**: Beginner, Intermediate, Advanced
+- **Total Entries**: 630+ translation triplets
+- **Categories**: 58 semantic categories including greetings, business, travel, education, healthcare, technology, and specialized domains
+- **Difficulty Levels**: Beginner, Intermediate, Advanced, Expert
 - **Format**: Structured JSON with metadata for each translation
+- **Version**: 1.1.0 (Last updated: 2024-07-28)
 
 ## 🎯 Key Features
 
 ### 📚 Rich Content Categories
-- **Daily Life**: Greetings, common phrases, family, emotions
-- **Professional**: Business, education, healthcare, technology
-- **Travel & Commerce**: Directions, shopping, travel, food
-- **Academic**: Numbers, time, colors, body parts, animals
-- **Conversational**: Real-world dialogue scenarios
+- **Daily Life**: Greetings, common phrases, family, emotions, daily routines
+- **Professional**: Business, education, healthcare, technology, law, economics
+- **Travel & Commerce**: Directions, shopping, travel, food, gastronomy
+- **Academic**: Numbers, time, colors, body parts, animals, mathematics, science
+- **Specialized Domains**: Artificial intelligence, cybersecurity, renewable energy, quantum physics
+- **Advanced Topics**: Philosophy, psychology, sociology, cultural nuances, ethics
 
 ### 🔧 Advanced Preprocessing Tools
 - **Multiple Export Formats**: OpenAI fine-tuning, HuggingFace datasets, CSV, JSONL
@@ -98,51 +100,67 @@ preprocessor.export_for_huggingface(splits)
 
 | Metric | Value |
 |--------|-------|
-| Total Translations | 500+ |
+| Total Translations | 630 |
 | Languages | 3 (Albanian, English, German) |
-| Categories | 20+ |
-| Difficulty Levels | 3 |
-| Average Text Length | ~15-50 characters |
-| Vocabulary Richness | High diversity across domains |
+| Categories | 58 |
+| Difficulty Levels | 4 (Beginner, Intermediate, Advanced, Expert) |
+| Average Text Length | ~20-80 characters |
+| Vocabulary Richness | High diversity across domains and specializations |
+
+### Complete Category List
+The dataset covers 58 categories including:
+- **Basic Communication**: greetings, common_phrases, conversations, emotions
+- **Everyday Life**: family, body_parts, colors, animals, food, clothing, weather, time, numbers
+- **Professional Domains**: business, education, healthcare, sports, professions, shopping, directions, travel
+- **Advanced Topics**: technology, science, politics, culture, philosophy, environment, psychology, economics, law, sociology, history, mathematics
+- **Specialized Fields**: artificial_intelligence, cybersecurity, renewable_energy, urban_planning, marine_biology, space_exploration, quantum_physics, ethics, gastronomy, social_media
+- **Complex Language**: idioms, formal_language, literature, complex_conversations, abstract_concepts, technical_terminology, metaphorical_language, conditional_statements, cultural_nuances, emotional_complexity, academic_discourse, professional_jargon, temporal_complexity
+
+### Difficulty Distribution
+- **Beginner**: Basic vocabulary and simple phrases
+- **Intermediate**: Common expressions and moderate complexity
+- **Advanced**: Complex sentences and specialized terminology
+- **Expert**: Highly technical and sophisticated language
 
 ## 🎨 Visualization Features
 
 The interactive dashboard provides:
 
-- **Overview Dashboard**: Dataset statistics and distributions
-- **Quality Analysis**: Text length, vocabulary richness, readability scores
-- **Word Clouds**: Visual representation of most frequent terms
-- **Translation Consistency**: Analysis of translation quality and consistency
-- **Clustering Analysis**: Semantic grouping of translations
-- **Export Tools**: Multiple format exports for different use cases
+- **Overview Dashboard**: Dataset statistics and distributions across all 630 entries
+- **Quality Analysis**: Text length analysis, vocabulary richness across 58 categories
+- **Word Clouds**: Visual representation of most frequent terms in all three languages
+- **Translation Consistency**: Analysis of translation quality across difficulty levels
+- **Category Analysis**: Distribution and complexity analysis across specialized domains
+- **Export Tools**: Multiple format exports optimized for different ML frameworks
 
 ## 🔬 Research Applications
 
 ### Machine Learning
-- **Neural Machine Translation (NMT)** model training
-- **Multilingual BERT** fine-tuning
-- **Cross-lingual transfer learning** research
-- **Few-shot translation** experiments
+- **Neural Machine Translation (NMT)** model training with Albanian support
+- **Multilingual BERT** fine-tuning for Albanian-English-German
+- **Cross-lingual transfer learning** research with low-resource Albanian
+- **Few-shot translation** experiments across difficulty levels
 
 ### LLM Fine-tuning
-- **Instruction tuning** for translation tasks
-- **Chat model** specialization
-- **Multilingual capability** enhancement
-- **Domain adaptation** for Albanian language
+- **Instruction tuning** for translation tasks with specialized domains
+- **Chat model** specialization for Albanian language support
+- **Multilingual capability** enhancement with technical terminology
+- **Domain adaptation** spanning from basic to expert-level content
 
 ### Linguistic Research
-- **Translation quality assessment**
-- **Cross-linguistic analysis**
-- **Semantic similarity studies**
-- **Cultural adaptation research**
+- **Translation quality assessment** across difficulty levels
+- **Cross-linguistic analysis** of Albanian, English, and German
+- **Semantic similarity studies** in specialized domains
+- **Cultural adaptation research** with Albanian-specific content
 
 ## 📊 Data Quality Assurance
 
-- ✅ **Human-validated translations** for accuracy
-- ✅ **Balanced representation** across categories
-- ✅ **Consistent formatting** and structure
-- ✅ **Metadata enrichment** for analysis
-- ✅ **Quality metrics** and analysis tools
+- ✅ **Human-validated translations** for accuracy across all 630 entries
+- ✅ **Balanced representation** across 58 categories
+- ✅ **Progressive difficulty** from beginner to expert levels
+- ✅ **Consistent formatting** and comprehensive metadata
+- ✅ **Specialized domain coverage** including AI, science, and technology
+- ✅ **Quality metrics** and analysis tools for all entries
 
 ## 🛠️ Advanced Features
 
@@ -203,24 +221,13 @@ We welcome contributions! Here's how you can help:
 ```
 
 ### Category Distribution
-- 🗣️ **Conversations**: 15%
-- 🏢 **Business**: 12%
-- ✈️ **Travel**: 12%
-- 🍽️ **Food**: 10%
-- 📚 **Education**: 10%
-- 🏥 **Healthcare**: 8%
-- 🛍️ **Shopping**: 8%
-- 🎯 **Common Phrases**: 25%
-
-## 🔧 Requirements
-
-- Python 3.7+
-- pandas >= 1.3.0
-- numpy >= 1.21.0
-- streamlit >= 1.28.0
-- plotly >= 5.0.0
-- scikit-learn >= 1.0.0
-- tiktoken >= 0.4.0
+- 🗣️ **Communication & Daily Life**: 25%
+- 🏢 **Professional & Business**: 20%
+- 🔬 **Science & Technology**: 15%
+- ✈️ **Travel & Commerce**: 12%
+- 📚 **Education & Academia**: 10%
+- 🏥 **Healthcare & Medicine**: 8%
+- 🌍 **Specialized Domains**: 10%
 
 ---
 
